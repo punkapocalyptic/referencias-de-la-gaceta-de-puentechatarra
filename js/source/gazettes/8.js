@@ -1,0 +1,62 @@
+source.push({
+    "id": 8,
+    "name": "VIII",
+    "sections": {
+        "breaking news": [
+            {
+                "en": '<p>The <punka-place data-id="puentechatarra">Scrapbridge</punka-place> <punka-band data-id="el-consejo">Council</punka-band> is glad to announce that the <punka-event data-id="invernalia">Winternal</punka-event> season is over with an unparalleled success in the public safety area. Far from last year’s 23 dead and 6 injuried people, these lovely holidays have left us with a mere 9 dead and 5 wounded (seriously, that’s true) people, to whom we have to add four people missing, a kidnapping, 20 violent assaults and three arsons. <punka-band data-id="el-consejo">The Council</punka-band> is delighted by such civilized numbers and encourages all the <punka-place data-id="puentechatarra">Scrapbridge</punka-place> population to keep behaving in this polite manner.</p>',
+                "es": '<p><punka-band>El Consejo</punka-band> de <punka-place>Puentechatarra</punka-place> se complace en anunciar que la temporada de <punka-event>Invernalia</punka-event> se ha cerrado con un éxito sin precedentes en lo que a seguridad ciudadana se refiere. Lejos de los 23 muertos y 6 heridos de hace un año, estas entrañables fiestas se han saldado únicamente con 9 muertos y 5 heridos (graves, eso sí), a los que hay que sumar cuatro desapariciones, un secuestro, 20 robos con violencia y tres incendios. <punka-band>El Consejo</punka-band> se congratula de unos números tan civilizados y anima a la población a que continúe portándose así de bien.</p>'
+            },
+            {
+                "en": '<p>One of the most painful deaths of this <punka-event data-id="invernalia">Winternal</punka-event> was that of <punka-character data-id="miguel-el-mantecas">Mike “Lardboy”</punka-character>, owner of the famous <punka-place data-id="tenderete-de-dulces-y-calientes-pastelillos-y-cremas-de-miguel-directos-de-su-horno-a-tu-boca">stall <q><punka-character data-id="miguel-el-mantecas">Mike’s</punka-character> hot and sweet creamy patties, directly from his oven to your mouth</q></punka-place>, down at the <punka-place data-id="barrio-de-la-viga">Beam quarter</punka-place>. With the fine intention of make this holidays happier to his neighbors, he had the bright occurrence to dress like the guy in red described in the leyends, take a sack on his shoulder full of the sweet pastries baked at his store, and sneak into the cribs of the hood to give them away to the children. It seems that in the second shack he got into, <punka-character data-id="pete-el-tronao" data-name="Maniac Pete">Maniac Pete’s</punka-character> place, he was greeted with a point-blank 00 buckshot that left him stone dead on the floor before he could even say <q>Ho, ho, ho</q>. Pete alleged self-defence, as everybody knows, as <punka-character data-id="miguel-el-mantecas">Mike</punka-character> sneaked into his property without proper invitation, but in memory of the deceased he also added that his pastries were fucking good, after cleaning them of blood and pellets.</p>',
+                "es": '<p>Una de las muertes más sentidas esta <punka-event>Invernalia</punka-event> será la de <punka-character>Miguel “el Mantecas”</punka-character>, dueño del famoso <punka-place>tenderete de <q>Dulces y calientes pastelillos y cremas de <punka-character data-id="miguel-el-mantecas">Miguel</punka-character>, directos de su horno a tu boca</q></punka-place>, en el <punka-place>barrio de la Viga</punka-place>. Con la intención de alegrar las fiestas a sus vecinos, no tuvo mejor ocurrencia que vestirse a imagen y semejanza del tipo de rojo de las leyendas, cargarse con un saco lleno de las delicias cremosas que hornea en su tienda, y colarse en las casas del barrio para regalarlas a los niños. Parece ser que en el segundo chabolo en el que entró, la cabaña de <punka-character>Pete el Tronao</punka-character>, fue recibido con una descarga de posta lobera del calibre 00 que lo dejó tieso en el suelo sin poder decir <q>Ho, ho, ho</q>. <punka-character data-id="pete-el-tronao" data-name="Pete el Tronao">Pete</punka-character> alegó defensa propia, como todo el mundo sabe, ya que <punka-character data-id="miguel-el-mantecas">Miguel</punka-character> se coló sin permiso en su propiedad, pero en honor del fiambre también añadió que sus pastelillos estaban de puta madre, una vez quitada la sangre y los perdigones.</p>'
+            },
+            {
+                "en": '<p>If you got blood running in your veins and something hangs from your crotch, you surely have heard those rumours going by <punka-place data-id="puentechatarra">Scrapbridge</punka-place> about a female <punka-troop data-id="mutardo">mutard</punka-troop> with three boobies, seen around the <punka-place data-id="amarillo" data-name="Yellow quarter">Yellow</punka-place> and <punka-place data-id="atechao">Shelter</punka-place>. Although there have been organized several volunteer searches to find and <q>take care of her</q> (whether that be hook or crook), there is no physical evidence that she is still in our settlement, so <punka-band data-id="el-consejo">the Council</punka-band> asks all citizens to stop gathering up in posses through the quarters, because it is most likely that she was only passing by in her way to <punka-place data-id="los-gemelos">The Twins</punka-place>.</p>',
+                "es": '<p>Si tienes sangre en las venas y algo colgando entre las piernas, seguro que has escuchado los rumores que corren por <punka-place>Puentechatarra</punka-place> sobre una <punka-troop data-id="mutardo" data-name="Mutardo">mutarda</punka-troop> con tres peras, que ha sido vista en los barrios <punka-place data-name="Barrio Amarillo">Amarillo</punka-place> y <punka-place>Atechao</punka-place>. A pesar de que se han organizado varias partidas ciudadanas para encontrarla y <q>ocuparse de ella</q> (no sabemos si por las malas o las cariñosas), no hay prueba física de su presencia aún en nuestro asentamiento, así que <punka-band>el Consejo</punka-band> pide a los ciudadanos que dejen de organizar batidas por los barrios, ya que lo más probable es que sólo estuviese de paso hacia <punka-place>Los Gemelos</punka-place>.</p>'
+            }
+        ],
+        "classyfrieds": [
+            {
+                "message": {
+                    "en": "Axes, machetes, swords, knives and all kind of cutting and stabbing weapons. Great quality.",
+                    "es": "Hachas, machetes, espadas, navajas y todo tipo de armas cortantes o punzantes en venta. Gran calidad."
+                },
+                "reference": {
+                    "en": 'Ref. 39 - <punka-character>Blade</punka-character>',
+                    "es": 'Ref. 39 - <punka-character>Blade</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": "What belongs to you but is used more by others? Say my name three times in a row, and you will get a huge prize for getting the right answer.",
+                    "es": "Oro parece, plata no es. El que no lo adivine bien tonto que es. Di mi nombre tres veces seguidas y consigue un premio por acertar."
+                },
+                "reference": {
+                    "en": 'Ref. 1992 - <punka-character>Candyman</punka-character>',
+                    "es": 'Ref. 1992 - <punka-character>Candyman</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": 'I sell the last pastries ever made by <punka-character data-id="miguel-el-mantecas">Mike “Lardboy”</punka-character> in his life. Take this last chance, as you won’t be able to taste them ever again.',
+                    "es": 'Se venden los últimos pastelillos hechos en vida por <punka-character>Miguel el Mantecas</punka-character>. Aprovecha, porque no volverás a probarlos más.'
+                },
+                "reference": {
+                    "en": 'Ref. 117 - <punka-character data-id="pete-el-tronao">Maniac Pete</punka-character>',
+                    "es": 'Ref. 117 - <punka-character>Pete el Tronao</punka-character>'
+                }
+            }
+        ],  
+        "monthly news": {
+            "en": '<p>New year, new troubles. It seems that the farms on our settlement’s limits, beyond the <punka-place data-id="barrio-de-chupapies">Footlicker quarter</punka-place> and the relative safety that <punka-place data-id="puentechatarra">Scrapbridge</punka-place> offers to all its inhabitants, have fallen prey to unknown raider’s attacks once again.</p><p><punka-place data-id="mutante-verde">Green Mutant</punka-place>, owned by the veteran farmer <punka-character>McCain</punka-character> and specialized in growing all kinds of fruits and vegetables, has been silent for the last two weeks and the city has not received any shipment from them since then. Although everybody knows that, as the saying goes, <q><punka-proverb data-id="lo-verde-pa-los-martinejos">Green is for <punka-nature data-id="martinejo" data-name="Martabbit">martabbits</punka-nature></punka-proverb></q> and a true wastelander proud of himself would only eat meat, <punka-character>McCain</punka-character> is a beloved member of our community and we can’t allow to let an attack against our farms go unpunished, because we would then be treated like fucking morons and the situation would be more than annoying.</p><p>So as things are now, <punka-band data-id="el-consejo">the Council</punka-band> wants to give word to all citizens that <punka-band data-id="los-jueces">The Judges</punka-band>, the band responsible for <q>keeping social justice, protecting the population and looking out for the good developing of things in <punka-place data-id="puentechatarra">Scrpabridge</punka-place> spilling no more blood than strictly necessary</q>, will take the issue in their own hands and go there to find out the cause of this sudden lack of any communication or shipment. The applicable veredict wil be executed on the go, as usual.</p>',
+            "es": '<p>Año nuevo, problemas nuevos. Parece ser que las granjas que se encuentran en los límites de nuestro asentamiento, más allá del <punka-place>barrio de Chupapiés</punka-place> y la seguridad relativa que ofrece <punka-place>Puentechatarra</punka-place>, han sido objeto de un nuevo ataque por parte de salteadores.</p><p><punka-place>Mutante Verde</punka-place>, propiedad del veterano granjero <punka-character>McCain</punka-character> y especializada en la producción de vegetales y hortalizas, ha dejado de dar señales de vida hace un par de semanas y no se ha recibido ningún cargamento de su parte desde entonces. Aunque está claro que, como dice el refrán, <q><punka-proverb>Lo verde, pa’ los <punka-nature data-id="martinejo" data-name="Martinejo">martinejos</punka-nature></punka-proverb></q> y cualquier parameño que se precie de serlo es más carnívoro que otra cosa, <punka-character>McCain</punka-character> es un personaje muy querido en nuestra comunidad y tampoco se puede dejar sin respuesta un posible ataque contra nuestras granjas, porque entonces nos toman por el puto pito del sereno y esto se convierte en un sindios que no se puede consentir.</p><p>Así pues, <punka-band>el Consejo</punka-band> quiere hacer llegar a los ciudadanos la noticia de que <punka-band>Los Jueces</punka-band>, la banda encargada de <q>mantener la justicia social, proteger a la ciudadanía y velar por el buen discurrir de las cosas en <punka-place>Puentechatarra</punka-place> sin derramar más sangre de la necesaria</q>, tomará cartas en el asunto e irá a investigar las causas de esta falta de noticias. El veredicto aplicable será, como siempre, ejecutado sobre la marcha.</p>'
+        },
+        "tip": {
+            "en": 'Back in the tunnels I was someone, I had weapons and hunted enemies... back here I can’t even hold down a job at a <punka-nature data-id="galligarto">lizarcock</punka-nature> fast food! Life sucks!',
+            "es": "En los túneles era alguien, manejaba armas, cazaba enemigos... ¡ahora he vuelto y no me dan trabajo ni como friegaplatos! ¡Puta vida!"
+        }
+    },
+    "type": "gazette",
+    "year": "II"
+});

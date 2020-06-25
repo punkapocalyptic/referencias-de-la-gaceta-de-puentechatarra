@@ -1,0 +1,62 @@
+source.push({
+    "id": 17,
+    "name": "XVII",
+    "sections": {
+        "breaking news": [
+            {
+                "en": '<p>We already knew that the <punka-faction data-id="hijos-de-la-sangre-negra">Children of the Black Blood</punka-faction> had gone postal since they suffered a surprise attack (thay have blown up half our bridge here, and we ain’t fuckin’ around <punka-place data-id="el-paramo">the Wasteland</punka-place> like some crazy ass <punka-nature data-id="mongolongo">mongolongos</punka-nature>), but now they have clearly confirmed that they are falling down from bad to worse.</p><p>The guy now in charge has left this message after putting to fire and sword a little settlement to the west of <punka-place data-id="sinagua">Nowater</punka-place>:</p><p><q>I am <punka-character>Cunnillingus Ignis</punka-character>, the Branded One, Lord of the Flame, Master of the <punka-object data-id="sangre-negra">Black Blood</punka-object>. Your lives are now mere fuel for <punka-character>Tex’co</punka-character>. Those who would not kneel before me will be consumed.”</p><p>From this <punka-media data-id="la-gaceta-de-puentechatarra">Scrapbridge Gazette</punka-media> we want to say to you, Gus (I’m sure you will not mind me calling you Gus) that you are losing it big time.</p>',
+                "es": '<p>Sabíamos que los <punka-faction>Hijos de la Sangre Negra</punka-faction> habían perdido un tanto la chaveta desde que sufrieron el ataque (aquí han volado medio puente y no hemos empezado a ir por <punka-place>el Páramo</punka-place> haciendo el <punka-nature>mongolongo</punka-nature>), pero ahora ya hemos confirmado que están fatal de lo suyo.</p><p>El tipo que ahora los lidera, ha dejado este mensaje tras pasar a sangre y fuego un pequeño asentamiento al oeste de <punka-place>Sinagua</punka-place>:</p><p><q>Soy <punka-character>Cunnillingus Ignis</punka-character>, el Marcado, Señor de la Llama, Maestro de la <punka-object>Sangre Negra</punka-object>. Vuestras vidas son ahora combustible para <punka-character>Tex’co</punka-character>. Aquellos que no se arrodillen ante mi presencia, serán consumidos.</q></p><p>Desde <punka-media>la Gaceta de Puentechatarra</punka-media>, queremos decirte, Gus, porque no te importará que te llamemos Gus, que se os está yendo la pinza un montonazo.</p>'
+            },
+            {
+                "en": '<p>Some loony from <punka-place data-id="amarillo">Yellow</punka-place> is the new “Chosen One” of the city, some guy who a couple of days ago got up from his flea-infested bunk shouting to the four winds that he was <q>the sole descendant of <punka-character>Abraham Washington</punka-character></q> (whoever the hell he was). After a vision in which he was revealed what lays behind the <punka-place data-id="baldio-final">Final Waste</punka-place>, he begun a journey to cross it and return with an ultimate weapon, so devastating that no one will ever attack <punka-place data-id="puentechatarra">Scrapbridge</punka-place> again in fear of being obliterated. At least that was what he said before walking away and be lost from sight forever. I’m afraid we won’t see how this one dies horribly, contrary to the last one, <punka-place>Neo Anderson</punka-place>, who swore he could stop bullets in mid-air with his mind. God, we laughed hard when he assaulted solo the <punka-place data-id="texco"><punka-faction data-id="hijos-de-la-sangre-negra">Black Blood</punka-faction> stronghold</punka-place>.</p>',
+                "es": '<p>Un zumbao de <punka-place>Amarillo</punka-place> es el nuevo “Elegido” de la ciudad, un pavo que hace unos días se levantó de su catre pulguiento y anunció a los cuatro vientos que era <q>el descendiente de <punka-character>Abraham Washington</punka-character></q> (quien coño fuese ese). Tras una visión que le reveló qué hay al otro lado del <punka-place>Baldío Final</punka-place>, se ha lanzado a cruzarlo para volver con un arma definitiva, tan devastadora que nadie jamás se atrevería a atacar otra vez <punka-place>Puentechatarra</punka-place> por miedo a ser pulverizado. Al menos eso dijo antes de echar a caminar y perderse de vista para siempre. Lo malo es que con este no vamos a ver cómo espicha cruelmente, como pasó con el anterior, <punka-place>Neo Anderson</punka-place>, que juraba que podía parar las balas en el aire con su mente. Joder, qué risas pasamos cuando asaltó en solitario la fortaleza de <punka-place>Tex’co</punka-place> de los <punka-faction>Hijos de la Sangre Negra</punka-faction>.</p>'
+            },
+            {
+                "en": '<p>The jailhouse is running again after the shootout held during those <punka-faction>V Reich</punka-faction> bastards’ jail break last month. I’m saying this because it was really annoying having a big house without one of its walls, and no one was taking seriously being arrested by <punka-band data-id="los-jueces">the Judges</punka-band> or <punka-band data-id="banda-de-la-trini">the Trini gang</punka-band>, as they crossed the front door and left through the hole in the back wall with their hands in their pockets. Well, that’s over, bitches! There is a fokkin’ wall back in its place again, so the joke is on you now!</p>',
+                "es": '<p>La carcel vuelve a estar operativa tras la fuga a tiro limpio de los cabrones del <punka-faction>V Reich</punka-faction> del mes pasado. Lo digo porque empezaba a ser un poco jodienda tener un trullo sin una pared, y ni dios se tomaba en serio que los trincasen <punka-band>los Jueces</punka-band> o la <punka-band>banda de La Trini</punka-band>, porque era entrar por la puerta y salir por el boquete de la pared de atrás silbando como si nada. ¡Pues eso se acabó, cabrones! ¡Vuelve a haber un muro en su puto sitio, se terminó el cachondeo de una vez por todas!</p>'
+            }
+        ],
+        "classyfrieds": [
+            {
+                "message": {
+                    "en": 'Players wanted for a live <punka-object data-id="pochicide">Addlercide</punka-object> game. You have to bring your own weapons.',
+                    "es": 'Se buscan jugadores para partida de <punka-object>Pochicide</punka-object> en vivo. Cada uno debe llevar sus propias armas de casa'
+                },
+                "reference": {
+                    "en": 'Ref. 2012 - <punka-character data-id="pochomaster">Addlermaster</punka-character>',
+                    "es": 'Ref. 2012 - <punka-character>Pochomaster</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": 'Three were the daughters of <punka-character data-id="ines-inesita-ines">King O’Hara</punka-character>... and I would fuck them all! If ya want to know this merry children, come to the great opening of “<punka-place data-id="ines-la-risuena">The King’s Daughters</punka-place>” at <punka-place data-id="la-viga">The Beam</punka-place>. Touching is expensive, but the booze is ok.',
+                    "es": 'Tres eran tres, las hijas de <punka-character data-id="ines-inesita-ines">Inés</punka-character>... ¡y me las follaría a todas! Si quieres conocer a esta alegre familia, acude a la gran apertura del nuevo garito “<punka-place data-id="ines-la-risuena">Inés la Risueña</punka-place>” en <punka-place>La Viga</punka-place>. Tocando es más caro, pero la priva está a buen precio.'
+                },
+                "reference": {
+                    "en": 'Ref. 010 - <punka-character data-id="ines-inesita-ines">O’Hara’s</punka-character>',
+                    "es": 'Ref. 010 - <punka-character>Inés Inesita Inés</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": 'I have found a <punka-object data-id="mapa-del-tesoro">treasure map</punka-object> belonging to this <punka-character data-id="willy-el-tuerto">“One-eyed” Willy</punka-character> fella. The place is fokkin’ far away, so I will give a share to anyone who helps me get there.',
+                    "es": 'He encontrado un <punka-object>mapa del tesoro</punka-object> de un tal <punka-character>Willy “El Tuerto”</punka-character>. Al que me ayude a ir a donde pone, que queda a tomar po’l culo, le doy parte de lo que encontremos.'
+                },
+                "reference": {
+                    "en": 'Ref. 1985 - <punka-character>Mikey</punka-character>',
+                    "es": 'Ref. 1985 - <punka-character>Mikey</punka-character>'
+                }
+            }
+        ], 
+        "monthly news": {
+            "en": '<p>Spectral lights illuminate at night the sky south of <punka-place data-id="puentechatarra">Scrapbridge</punka-place>, with an ominous and pale tone that makes you shit down your pants. Some brave <punka-faction data-id="pandilleros">ganger</punka-faction> groups have stood watch in the surroundings of <punka-place data-id="pozocerdo">Pigsty</punka-place>, in case this luminous event was somehow connected with the ongoing shit carried on by the filthy <punka-faction data-id="mutardos">mutards</punka-faction> living down there, but apart from coming back smelling like butt and with a four-days headache, they couldn’t get anything clear (aw, another easy joke).</p><p>They say these lights come from further south, where there is only known the location of <punka-place data-id="majauchsuwi">Majanchwinswi</punka-place> (or whatever the fuck you write it), which is already a spooky place to go to by daylight, not to say going there to investigate by night and risk being eaten alive by a <punka-nature data-id="noctambulon">nightwalka</punka-nature>. If this info is right and there is something nasty brewing up around the <punka-place data-id="majauchsuwi">Tamagowchi</punka-place> area, that would be bloody brilliant. Terrorist attacks, pissed-off cultists, unrest <punka-faction data-id="mutardos">mutards</punka-faction> and now sinister night lights around this cursed zone inhabited by angry-as-hell ghosts.</p><p>Don’t got south of <punka-place data-id="pozocerdo">Pigsty</punka-place>, I warn you, and by no means get close to <punka-place data-id="majauchsuwi">Munchcuntchew</punka-place> if you value your sinning asses... and your immortal souls, because that region is cursed by <punka-character>Mano Tiki-Tia</punka-character>!</p>',
+            "es": '<p>Luces espectrales iluminan el cielo al sur de <punka-place>Puentechatarra</punka-place>, con un tono pálido y siniestro que hace que uno se cague por la pata abajo. Algunos grupos de <punka-faction>pandilleros</punka-faction> valientes han montado guardia en las cercanías de <punka-place>Pozocerdo</punka-place>, por si estos resplandores tuviesen algo que ver con las mierdas que hacen por allí los <punka-faction>mutardos</punka-faction> piojosos que habitan la zona, pero aparte de volver oliendo a culo y con una jaqueca de cuatro días, no han sacado nada en limpio (ja, otro chistaco fácil).</p><p>Dicen que las luces se originan aún más al sur, donde sólo se conoce la ubicación de <punka-place data-id="majauchsuwi">Majanchwinswi</punka-place> (o como coño se escriba), que sin duda es un lugar chungo ya de por sí a la luz del día como para ir a investigar allí de noche y que te coma vivo un <punka-nature>noctambulón</punka-nature>. Si esta noticia es cierta y algo turbio está despertando en la zona de <punka-place data-id="majauchsuwi">Tamagowchi</punka-place>, era lo que nos faltaba. Ataques terroristas, cultistas cabreados, <punka-faction>mutardos</punka-faction> inquietos y ahora luces nocturnas siniestras en esta zona maldita y habitada por espíritus cabreados de cojones.</p><p>Estáis avisados, no vayáis más al sur de <punka-place>Pozocerdo</punka-place> y bajo ningún concepto os acerquéis a <punka-place data-id="majauchsuwi">Mascalchichiw</punka-place> si valoráis vuestro pellejo... ¡y vuestras almas inmortales, ya que esa zona está maldita por <punka-character>Mano Tiki-Tia</punka-character>!</p>'
+        }, 
+        "tip": {
+            "en": 'It’s not a legend, <punka-nature data-id="nardipolla">dickpricks</punka-nature> exist... and they are ugly as fuck. Hahaha, as fuck, you get it?',
+            "es": 'No son leyendas, las <punka-nature data-id="nardipolla">nardipollas</punka-nature> existen… y son feas de cojones. Jajaja, de cojones. ¿Lo pillas?'
+        }
+    },
+    "type": "gazette",
+    "year": "II"
+});

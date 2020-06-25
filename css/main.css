@@ -1,0 +1,702 @@
+/* NORMALIZE
+    ========================================================================== */
+
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+cite {
+    font-style: normal;
+}
+
+figcaption {
+    font-size: 0.7rem;
+}
+
+figure {
+    margin: 0;
+    padding: 0 0.5rem;
+    text-align: center;
+}
+
+p {
+    margin-top: 0;
+    word-break: break-word;
+}
+
+ol,
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+body:lang(en) span:lang(es)::before {
+    content: '(only Spanish) ';
+    font-size: 0.8rem;
+}
+
+body:lang(es) span:lang(en)::before {
+    content: '(solo en inglés) ';
+    font-size: 0.8rem;
+}
+
+
+
+
+/* NORMALIZE > Cabecera
+ *
+ * @markup
+    <header class="header">
+        <a class="header__link" href="[url]" target="[text]">
+            <h1 class="header__title">[text]</h1>
+            <h2 class="header__subtitle">[text]</h2>
+        </a>
+        <ul class="header__languages">[languages]</ul>
+    </header>
+    ========================================================================== */
+
+
+.header__subtitle,
+.header__title {
+    margin: 0;
+}
+
+.header__subtitle {
+    font-size: 1rem;
+}
+
+.header__title {
+    line-height: 2rem;
+}
+
+.panel_theme_profile[data-type="gazette"] .item__name {
+    display: none;
+}
+
+
+
+
+/* NORMALIZE > Cartas del Daryl
+ *
+ * @markup
+    <q class="uncle">[text]</q>
+    ========================================================================== */
+
+
+.uncle {
+    color: #444;
+    font-weight: bold;
+}
+
+.uncle::after {
+    content: ')';
+}
+
+.uncle::before {
+    content: '(';
+}
+
+
+
+
+/* NORMALIZE > Entrevista
+ *
+ * @markup
+    <div class="interview">
+        <blockquote class="interview__question">[text]</blockquote>
+        [text]
+        <blockquote class="interview__answer">[text]</blockquote>
+        [text]
+    </div>
+    ========================================================================== */
+
+
+.interview {
+    padding-bottom: 1rem;
+}
+
+.interview > p {
+    font-size: smaller;
+    margin-bottom: 0;
+}
+
+.interview__answer {
+    font-style: italic;
+    padding: 0 0.5rem;
+}
+
+.interview__question {
+    font-weight: bold;
+}
+
+
+
+
+/* NORMALIZE > La leyenda de David Juanes
+ *
+ * @markup
+    <div class="item__content">
+        <h5 class="item__chapter">[text]</h5>
+        <blockquote class="item__message">[text]</blockquote>
+        <cite class="item__author">[text]</cite>
+    </div>
+    ========================================================================== */
+
+
+.item__chapter {
+    column-span: all;
+    margin: 0;
+}
+
+
+
+
+/* SCREEN
+   ========================================================================== */
+
+
+@media only screen {
+
+    blockquote {
+        margin: 0;
+        padding: 0;
+    }
+
+
+    /**
+     * El texto de los botones no es seleccionable.
+     * 1. Chrome all / Safari all
+     * 2. Firefox all
+     * 3. IE 10+
+     * 4. Likely future
+     *
+     * @credits
+     * https://css-tricks.com/almanac/properties/u/user-select/
+     */
+
+    button {
+        -webkit-user-select: none;  /* 1 */
+        -moz-user-select: none;     /* 2 */
+        -ms-user-select: none;      /* 3 */
+        user-select: none;          /* 4 */
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+
+
+
+    /* SCREEN > Estructura
+     *
+     * @markup
+        <html>
+            <head>[head]</head>
+            <body>
+                <header class="header">[header]</header>
+                <main class="main">[main]</main>
+                <footer class="footer">[footer]</footer>
+            </body>
+        </html>
+       ========================================================================== */
+    
+
+    body {
+        background: no-repeat center url('../img/fondo.jpg');
+        background-size: cover;
+        display: grid;
+        font-family: sans-serif;
+        grid-template-rows: auto 1fr auto;
+        height: 100%;
+        line-height: 1.5rem;
+        margin: 0;
+        overflow: hidden;
+    }
+
+    html {
+        height: 100%;
+    }
+
+    mark {
+        background: rgba(0, 0, 0, 0.1);
+        padding: 0.1rem 0.25rem;
+    }
+
+    .footer,
+    .header {
+        align-items: center;
+        background-color: rgba(6, 6, 6, 0.8);
+        color: #fff;
+        position: relative;
+        z-index: 10;
+    }
+
+    .green {
+        color: #393;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .main {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+        padding: 1rem;
+        position: relative;
+    }
+
+    .main::after {
+        content: '';
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 0;
+    }
+
+
+
+
+    /* SCREEN > Cabecera > Idiomas
+     *
+     * @markup
+        <ul class="languages">
+            <li class="languages__language">[language]</li>
+            <!-- `.languages__language` -->
+        </ul>
+       ========================================================================== */
+
+
+    .languages {
+        text-align: right;
+    }
+    
+    .languages__language {
+        display: inline-block;
+        padding: 0.25rem 0;
+    }
+
+
+
+
+    /* SCREEN > Cabecera > Idiomas > Idioma
+     *
+     * @markup
+        <li class="language">
+            [<button class="language__item language__trigger" lang="[lang]">[text]</button>]
+            [<strong class="language__item language__current">[text]</strong>]
+        </li>
+       ========================================================================== */
+    
+
+    .language__current,
+    .language__trigger:hover {
+        border-color: rgba(255, 255, 255, 0.5);
+    }
+
+    .language__current {
+        cursor: default;
+        padding: 0.1rem 0.5rem 0.1rem 2rem;
+    }
+    
+    .language__item {
+        background-repeat: no-repeat;
+        border: 1px solid;
+        border-radius: 1rem;
+        box-sizing: border-box;
+        color: inherit;
+        display: inline-block;
+        margin-left: 0.5rem;
+        text-align: left;   
+    }
+
+    .language__item:lang(en) {
+        background-image: url('../img/flag-en.png')
+    }
+
+    .language__item:lang(es) {
+        background-image: url('../img/flag-es.png')
+    }
+
+    .language__trigger {
+        background-color: rgba(0, 0, 0, 0);
+        border-color: rgba(0, 0, 0, 0);
+        color: inherit;
+        cursor: pointer;
+        font-size: inherit;
+        padding: 0.25rem 0.5rem 0.25rem 2rem;
+        transition: 250ms all;
+    }
+
+    .language__trigger:hover {
+        background-color: rgba(100, 100, 100, 0.5);
+    }
+
+
+
+
+    /* SCREEN > Contenido > Elementos pulsables
+       ========================================================================== */
+       
+
+    mark,
+    .item__name,
+    .item-list__item-list-element,
+    .type__name {
+        border-radius: 0.5rem;
+        transition: 250ms all;
+    }
+    
+    mark:hover,
+    .item__name:hover,
+    .panel_theme_index .item-list__item-list-element:hover,
+    .type__name:hover {
+        background-color: rgba(200, 200, 200, 0.25);
+        box-shadow: 0px 0px 1rem #000;
+        cursor: pointer;
+    }
+
+    .item__name,
+    .item-list__item-list-element,
+    .type__name {
+        padding: 0.5rem;
+    }
+
+
+
+
+    /* SCREEN > Listado
+     *
+     * @markup
+        <ol class="item-list">
+            <li class="item-list__item-list-element">[text]</li>
+        </ol>
+       ========================================================================== */
+    
+
+    .item-list__item-list-element {
+        border: 1px dashed rgba(0, 0, 0, 0.5);
+        margin: 0.5rem 0;
+    }
+
+
+
+
+    /* SCREEN > Listado > Elemento
+     *
+     * @markup
+        <article class="item">
+            <h5 class="item__name">[text]</h5>
+            <div class="item__content">[text]</div>
+        </article>
+       ========================================================================== */
+
+
+    .item__name {
+        margin: 0;
+        padding: 0.25rem;
+    }
+
+
+
+
+    /* SCREEN > Panel
+     *
+     * @markup
+        <article class="panel">
+            <h3 class="panel__name">[text]</h3>
+
+            [<div class="panel__content panel__item-list">[item-list]</div>]
+            <!-- ó -->
+            [<ol class="panel__content">[text]</ol>]
+
+        </article>
+       ========================================================================== */
+    
+
+    /**
+     * 1. Safari 3.1-5
+     * 2. Opera 11-12.1
+     */
+
+    .panel {
+        background: center no-repeat url('../img/base.png');
+        background-size: 108% 108%;
+        border: 1rem solid;
+        -webkit-border-image: url('../img/base.png') 30 stretch;    /* 1 */
+        -o-border-image: url('../img/base.png') 30 stretch;         /* 2 */
+        border-image: url('../img/base.png') 30 stretch;
+        border-radius: 1rem;
+        display: flex;
+        flex-direction: column;
+        max-height: 80%;
+        min-height: 50%;
+        position: absolute;
+        transition: 250ms all;
+    }
+
+    .panel:nth-child(even) {
+        transform: rotate(-3deg); 
+    }
+
+    .panel:nth-child(odd) {
+        transform: rotate(3deg); 
+    }
+
+    .panel:last-child {
+        transform: none; 
+        z-index: 1;
+    }
+
+    .panel__close {
+        background-color: rgba(0, 0, 0, 0);
+        border: none;
+        color: inherit;
+        font-size: 2rem;
+        margin: -1rem -1rem 0 0;
+        position: absolute;
+        right: 0;
+        transition: 250ms color;
+    }
+
+    .panel__close:hover {
+        color: #d00;
+        cursor: pointer;
+    }
+
+    .panel__content {
+        flex-flow: 1;
+        overflow: auto;
+        padding: 0 1rem;
+    }
+
+
+    /**
+     * Barra de desplazamiento de Chrome.
+     * @credits
+     * https://css-tricks.com/almanac/properties/s/scrollbar/
+     */
+
+    .panel__content::-webkit-scrollbar {
+        border-radius: 0.5rem;
+        width: 1em;
+    }
+
+    .panel__content::-webkit-scrollbar-thumb {
+        background-color: rgba(0, 0, 0, 0.5);
+        outline: 1px solid;
+    }
+
+    .panel__content::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+
+
+    /**
+     * Barra de desplazamiento en Firefox.
+     * @credits
+     * https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-color
+     */
+    
+    .panel__content {
+        scrollbar-color: rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.04);
+    }    
+
+    .panel__name {
+        margin: 0 1rem;
+        padding: 0.5rem 0;
+    }
+
+    .region__name {
+        margin: 0;
+    }
+
+
+
+
+    /* SCREEN > Pie
+     *
+     * @markup
+        <footer class="footer">
+            <a class="footer__link" href="[url]" target="[text]">[text]</a>
+            [<button class="panel__close" type="button">[text]</button>]
+        </footer>
+        ========================================================================== */
+
+
+    .footer .panel__close {
+        right: 1rem;
+    }
+}
+
+
+
+
+/* NO MOBILITY (1024 < screen)
+   ========================================================================== */
+
+
+@media only screen and (min-width: 1025px) {
+
+    /* NO MOBILITY > Listado > Sección > Elemento
+     *
+     * @markup
+        <li class="item" data-section="[section]">
+            <article class="list-item__item">
+                <h5 class="item__name">[text]</h5>
+                <div class="item__content">[text]</div>
+            </article>
+        </li>
+        ========================================================================== */
+
+
+    .item[data-section]:not([data-section="tip"]) .item__content {
+        column-count: 2;
+    }
+
+    .item__message {
+        break-inside: avoid; 
+    }
+}
+
+
+
+
+/* NO MOBILE (767 < screen)
+ *
+ * @credits
+ * https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488
+   ========================================================================== */
+
+
+@media only screen and (min-width: 768px) {
+
+    .footer,
+    .header {
+        padding: 1rem;
+    }
+
+    .footer {
+        padding: 1rem;
+    }
+
+    .language__item {
+        background-position: 0.5rem center;
+        font-weight: normal;
+        width: 7rem;
+    }
+
+    .panel {
+        max-width: 90%;
+        min-width: 50%;
+    }
+}
+
+
+
+
+/* MOBILE (screen < 768)
+   ========================================================================== */
+
+
+@media only screen and (max-width: 767px) {
+
+    .footer,
+    .header {
+        padding: 0.2rem 0.8rem;
+    }
+
+    .footer {
+        padding: 0.5rem 1rem;
+    }
+    
+    .language__item {
+        background-position: center;
+        text-indent: -99rem;
+    }
+
+    .panel {
+        left: 1rem;
+        right: 1rem;
+    }
+}
+
+
+
+
+/* NO PHONE (480 < screen)
+   ========================================================================== */
+
+
+@media only screen and (min-width: 481px) {
+    figure {
+        float: left;
+    }
+}
+
+
+
+
+/* PRINT
+   ========================================================================== */
+
+
+@media print {
+
+    a::after {
+        content: ' (' attr(href) ')';
+        display: block;
+        font-size: 0.75rem;
+    }
+
+    blockquote {
+        margin: 1rem 0;
+    }
+
+    figure {
+        float: left;
+    }
+
+    mark {
+        background-color: rgba(0, 0, 0, 0);
+        font-weight: bold;
+    }
+
+    .footer {
+        padding: 1rem 0;
+    }    
+
+    .item-list__item-list-element {
+        border-bottom: 1px dotted;
+        padding: 0.5rem;
+    }
+
+    .item__name {
+        margin: 0;
+    }
+
+    .languages,
+    .main > article:nth-last-child(n+2),
+    .panel__close {
+        display: none;
+    }
+
+    .panel_theme_index .panel__item-list {
+        column-count: 2;
+    
+    }
+
+    .panel_theme_index .item-list__item-list-element {
+        break-inside: avoid; 
+        padding: 0.25rem 0;
+    }
+}

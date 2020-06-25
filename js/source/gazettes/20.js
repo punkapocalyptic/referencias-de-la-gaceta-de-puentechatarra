@@ -1,0 +1,58 @@
+source.push({
+    "id": 20,
+    "name": "XX",
+    "sections": {
+        "breaking news": [
+            {
+                "en": '<p>The all-time favorite to win the 4th edition of “<punka-event data-id="el-gran-castanazo">Da Big Blow</punka-event>”, as always the one and only <punka-character data-id="ochodedos">Eightfingers</punka-character>, faced last month another of the greatests <punka-band data-id="luchadores-del-pozo">Pit fighters</punka-band>, <punka-character data-id="el-ultimo-guarro">the Ultimate Warcor</punka-character>. It was an exhab... exbith... exhobi... one of those fights to show your ass off due to the <punka-event data-id="invernalia">Winternal season</punka-event> holidays, but the crowd anyway enjoyed their time like pigs in a cornfield.</p><p>The show ended in a tie after the <punka-character data-id="el-ultimo-guarro">Ultimate Warcor</punka-character>, who had brought a lookalike fella to the match so he could impersonate him during most of the fight, left before the end. When <punka-character data-id="ochodedos">Eightfingers</punka-character> got distracted staring at the heavy hangers of a young fan who had taken off her shirt, <punka-character data-id="el-ultimo-guarro">the Warcor</punka-character> came out from behind a <punka-nature data-id="champinon">rock</punka-nature> with a <punka-object data-id="maza-de-picapedrero">sledgehammer</punka-object> and hit him right in the back of the head, and everyone there though he was done for good. But <punka-character data-id="ochodedos">Eightfingers</punka-character> miraculously recovered, stood up and grabbed with both hands the false <punka-character data-id="el-ultimo-guarro">Ultimate Warcor’s</punka-character> head, taken by an outraged fury. Amid agony screams, he poked his thumbs into his eyes and kept pressing until the impersonator’s head exploded like a pumpkin in a shooting range. After witnessing that, the real Ultimate Warcor fled the scene and the referee’s bell ringed the end of the match with no official winner.</p>',
+                "es": '<p>El favorito de la 4ª Edición de “<punka-event>El Gran Castañazo</punka-event>”, como siempre y cómo no, el magnífico e incomparable <punka-character>Ochodedos</punka-character>, se enfrentó el pasado mes a otro de los grandes <punka-band>luchadores del Pozo</punka-band>, <punka-character>el Último Guarro</punka-character>. Fue un combate de exhita... exbita... exhobi... de esos para lucirse en plan guapo, por las fechas estas de <punka-event>Invernalia</punka-event>, pero aún así su público lo gozó como gorrinos en un maizal.</p><p>Al final el combate terminó en tablas por el abandono del <punka-character data-id="el-ultimo-guarro">Último Guarro</punka-character>, que fiel a su nombre llevó a un doble que se hizo pasar por él durante parte de la pelea. Cuando <punka-character>Ochodedos</punka-character> estaba distraido mirándole las tetorras a una fan que se había levantado la camiseta, <punka-character data-id="el-ultimo-guarro">el Guarro</punka-character> salió de detrás de un <punka-nature>champiñón</punka-nature> con una <punka-object>maza de picapedrero</punka-object> y le arreó con ella en el cogote, y todo el mundo pensó que lo había dejado muñeco allí mismo. Pero <punka-character>Ochodedos</punka-character> se recuperó milagrosamente, se levantó y agarró con ambas manos la cabeza del falso <punka-character data-id="el-ultimo-guarro">Último Guarro</punka-character>, preso de una furia indescriptible. Entre chillidos de agonía, le clavó los pulgares en los ojos y siguió apretando hasta que el torrao del pardillo explotó como una calabaza en un campo de tiro. A la vista de eso, <punka-character>el Último Guarro</punka-character> salió por patas y la campana del árbitro decretó el final del combate sin vencedor.</p>'
+            },
+            {
+                "en": '<p>We had been told by some lowlife pot smoker from the settlement of <punka-place data-id="barriletes">Kegpile</punka-place> time ago, but as we usually don’t pay attention to whatever crap some leftover drops on us, we hadn’t even mentioned it. But then here it is this <punka-troop data-id="pandillero">ganger</punka-troop> from the <punka-band data-id="pinos-negros">Black Teeth</punka-band>, who by the way has a perfect denture and is too hot to be a liar, telling the exact same story.</p><p>It seems there is this <punka-object data-id="furgoneta-que-aparece-de-la-nada">van driving around, appearing out of nowhere</punka-object> and from which emerge a bunch of bizarre guys dressed in funny clothes, who start beating the shit out of whoever they find in their way without a single fuckin’ word. Sounds weird as shit, but hey, you see some really crazy stuff around lately, so...</p>',
+                "es": '<p>Nos lo había dicho un fumeta arrastrao del asentamiento de <punka-place>Barriletes</punka-place>, pero como no vamos a creer a cada pringao que nos cuenta cosas, ni lo habíamos comentado. Pero ahora resulta que una <punka-troop data-id="pandillero">pandillera</punka-troop> de los <punka-band>Piños Negros</punka-band>, que increíblemente tiene una dentadura perfecta y está demasiado buenorra para mentir, nos ha contado la misma historia.</p><p>Por lo visto anda por ahí una <punka-object>furgoneta, que aparece de la nada</punka-object> y de la que se bajan un montón de tipos raros vestidos de forma estrafalaria, que se lían a hostias con los primeros que se encuentran sin mediar ni media puta palabra. Que suena raro de cojones, pero bueno, con lo que se ve últimamente, estamos ya curados de espanto.</p>'
+            }
+        ],
+        "classyfrieds": [
+            {
+                "message": {
+                    "en": "Drop me a line, babydoll, and I will gift you with the best two minutes of pleasure in your life. You won’t regret.",
+                    "es": "Si me das un toque, muñeca, te regalaré los dos minutos de placer más brutales de tu vida. No te arrepentirás."
+                },
+                "reference": {
+                    "en": 'Ref. 6699 - <punka-character>Latin Lover</punka-character>',
+                    "es": 'Ref. 6699 - <punka-character>Latin Lover</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": 'Need to be a special kind of bastard to take a dump in the socks I had hanging outside my crib to dry. I hope you get bitt’n by a <punka-nature>moscorpion</punka-nature> in your tiny, sorry dick.',
+                    "es": 'Hay que ser muy cabrón para soltarme un ñordo en los calcetos que tenía secando junto a la puerta. Así te la pique un <punka-nature>moscorpión</punka-nature>, mugoroso.'
+                },
+                "reference": {
+                    "en": 'Ref. H8 - <punka-character>Craig Piesgrandes</punka-character>',
+                    "es": 'Ref. H8 - <punka-character>Craig Piesgrandes</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": 'I’ve seen things you people wouldn’t believe: <punka-faction data-id="mutardos">Mutards</punka-faction> pretty as models, glass houses high as mountains. All those moments will be lost in time, like spits in a well.',
+                    "es": 'Yo he visto cosas que jamás creeríais: <punka-faction>mutardos</punka-faction> guapos como nadie, casas de cristal altas como montañas. Pero esos momentos se perderán, como lapos en un pozo.'
+                },
+                "reference": {
+                    "en": 'Ref. N6MAA10816 - <punka-character>Roy B.</punka-character>',
+                    "es": 'Ref. N6MAA10816 - <punka-character>Roy B.</punka-character>'
+                }
+            }
+        ], 
+        "monthly news": {
+            "en": '<p><punka-character data-id="el-elegido-de-puentechatarra">The <punka-place data-id="puentechatarra">Scrapbridge</punka-place> “Chosen One”</punka-character> is back in town, dead beaten and nutter than ever. Yeah, that fragging whacko from whom you might have read in <punka-media data-id="la-gaceta-de-puentechatarra">this same Gazette</punka-media> some three or four months ago. The one who had a revelation from his ancestor <punka-character>Abraham Washington</punka-character>, telling him there was a devastating, ultimate weapon across the <punka-place data-id="baldio-final">Final Waste</punka-place>. Well, the sorry ass didn’t die trying to get it back, but he hasn’t returned with any sort of weapon neither; only with an arm too few, a gangrened leg and cuts and burns all over his body. All for the better, if you ask me. The few words he has muttered since he was found in agonizing fevers due to his infected wounds were endless deluded ravings about some devilish creatures he found over there, humans emerged from the depths of Hell, more beasts than men, void of any feeling or emotion, who kill only for the pleasure of drinking blood and tearing flesh open.</p><p>Right when you thought you have heard it all, something new comes to creep your ass out. Many people say it’s just a bunch of nonsense, while others bark the Sun has fried the few brains the guy had left, and there are others who claim they might be only some savage <punka-faction data-id="mutardos">Mutards</punka-faction>. But if you hear the man telling the story, he will freak your shit for good.</p>',
+            "es": '<p><punka-character>“El elegido” de <punka-place>Puentechatarra</punka-place></punka-character> ha vuelto a la ciudad, hecho unos zorros y más loco de la puta chola que nunca. Sí, ese puto pirado del que habréis leído algo en <punka-media data-id="la-gaceta-de-puentechatarra">esta misma Gaceta</punka-media> hace unos tres o cuatro meses. El que tuvo una revelación de su antepasado <punka-character>Abraham Washington</punka-character>, diciéndole que al otro lado del <punka-place>Baldío Final</punka-place> se escondía un arma devastadora y definitiva. Pues el muy capullo no ha muerto en el intento, aunque tampoco ha vuelto con ningún arma. Sólo con un brazo menos, una pierna gangrenada y cortes y quemaduras por todo su cuerpo. Una mejoría, si me preguntáis a mi. Lo poco que ha dicho desde que lo encontraron agonizando de fiebre por la infección de sus heridas ha sido un delirio constante sobre unas criaturas diabólicas, humanos surgidos del infierno, más bestias que hombres, carentes de cualquier sentimiento o emoción, y que matan sólo por el placer de beber sangre y desgarrar carne.</p><p>Cuando ya creías que lo habías oído todo, siempre hay algo nuevo que te arruga el ojete. Mucha gente afirma que son invenciones, otros largan que el sol le ha frito el poco seso que tenía y se lo inventa todo, mientras que algunos ladran que no serán más que <punka-faction>Mutardos</punka-faction> especialmente salvajes. Pero si lo oyes contarlo, la verdad que acojona que te pasas.</p>'
+        }, 
+        "tip": {
+            "en": "You remember that bold-ass bloke, the fat one, always smelling like shit, who walked around the city as he owned the fuckin’ place? No? Nevermind, ‘cause the little shit died last month.",
+            "es": "¿Te acuerdas del pavo ese calvorota, aquel tan gordo, que siempre golía a culo y andaba por ahí como si la puta ciudad fuese suya? ¿No? Pos da igual, porque el muy mierda la palmó el mes pasado"
+        } 
+    },
+    "type": "gazette",
+    "year": "III"
+});

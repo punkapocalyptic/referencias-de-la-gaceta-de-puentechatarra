@@ -1,0 +1,52 @@
+source.push({
+    "id": 22,
+    "name": "XXII",
+    "sections": {
+        "breaking news": [
+            {
+                "en": '<p>Several ‘synonymous’? sources haven reported to us that the <punka-faction>V Reich</punka-faction> guys have found something really nasty, kind of lethal-nasty, in a recent scouting mission they went far south from <punka-place data-id="torresbrillantes">Gleaming towers</punka-place>. And I mean something nasty for the rest of us, ‘cause those inbreed mutard-hating psychos are happy as a bunch of pigs in a cornfield. You can guess their babblings: ultimate weapon this, <punka-place data-id="el-paramo">the Wasteland</punka-place> will be finally purgued that, and all the shit inbetween, but as they use those long fraggin’ words that sound like they are continuously sneezing, who the fuck understands a single thing.</p>',
+                "es": '<p>Nos han informado desde distintas fuentes ¿sinónimas? que el <punka-faction>V Reich</punka-faction> ha dado con algo chungo, pero esta vez chungo de la muerte de verdad, en una reciente misión de exploración en la que han ido un cacho más al sur de <punka-place>Torresbrillantes</punka-place>. Bueno, algo chungo para los demás, ellos parece que están contentos como un retortillo después de zamparse unos garbanzos. Pero vamos, que si será su arma definitiva, que si van a purgar <punka-place>el Páramo</punka-place>, y más cosas por el estilo, que como las dicen con muchas palabras de esas que parecen estornudos cualquiera se entera.</p>'
+            },
+            {
+                "en": '<p>Now please, I know many of you find it really amusing, but it ain’t. We have a quite clueless <punka-troop data-id="mutardo">Mutard</punka-troop> wandering around <punka-place data-id="puentechatarra">Scrapbridge</punka-place>, with a genuine I-don’t-know-whatthe-frag-is-going-on face, and there is a lot of people enjoying themselves by kickin’ his shell until he hides inside for two whole days. We all know that he looks funny with his ragged tracksuit trousers held up with an electric wire, the bandanna tied around his fuckface, his sad sandals... and we all want to lam into him on sight and beat the shit outta him. I can’t believe I’m saying this, but give the poor fella a break, because he is also a feelin’ livin’ bein’. It is kinda sad that a full grown up turtle spends two days weeping inside his shell, so be nice neighbors and show the turtle-man some love while he is around our city.</p>',
+                "es": '<p>A ver, por favor, ya sé que a muchos os parece cosa de risas, pero no lo es. Anda por <punka-place>Puentechatarra</punka-place> un <punka-troop>Mutardo</punka-troop> un poco perdido, así con cara de no coscarse de la mitad, al que muchos de vosotros os gusta patearle el caparazón hasta que se esconde en él y se tira dos días sin salir. Ya sabemos todos que con esas pintas que lleva, con un pantalón de chándal mugriento atado con un cable, el pañuelo atado al careto, las chanclas roñosas... pues apetece cebarse con el pobre chaval y fostiarlo nada más verlo. Y parece increíble que lo diga yo, pero darle un respiro, que también es sentimiento y tiene ser humano dentro. Es muy lastimoso que una tortuga hecha y derecha se pase dos días llorando dentro del caparazón, así que sed unos buenos vecinos y, mientras esté por aquí, mostradle un poco de cariño.</p>'
+            },
+            {
+                "en": '<p>We remind you that we are right in the middle of the <punka-event data-id="temporada-de-migracion-de-las-nardipollas"><punka-nature data-id="nardipolla">dickprick’s</punka-nature> migratory season</punka-event> through the <punka-place data-id="lechazos">Buklake</punka-place> area. So if you really HAVE to be there, remember to carry something with you to cover your mouth, unless you want to gag on those nasty creatures’ balls. And I know exactly what are you thinking now, you dirty bastards: <q>I bet my ass that <punka-character data-id="la-vane">Keysha</punka-character> is having a picnic down there soon</q>. Well, that is my guess too.</p>',
+                "es": '<p>Os recordamos a todos que estamos en la <punka-event>temporada de migración de las <punka-nature data-id="nardipolla">nardipollas</punka-nature></punka-event> en la zona de <punka-place>Lechazos</punka-place>. Así que si vais por ahí, aunque no se me ocurre a qué cojones ibais a ir, llevad algo para taparos las bocas si no queréis que os metan los huevos hasta el fondo. Y sé lo que estáis pensando ahora mismo, cerdos malparidos: <q>Fijo que sí, que <punka-character>la Vane</punka-character> va a dar un rulo por ahí en estas fechas</q>. Pues no andáis muy desencaminados, digo yo.</p>'
+            }
+        ],
+        "classyfrieds": [
+            {
+                "message": {
+                    "en": 'Still looking for instructions on how to use these <punka-object data-id="tres-conchas">three fraggin’ shells</punka-object>.',
+                    "es": 'Se buscan instrucciones para usar de una puta vez las <punka-object>tres conchas</punka-object>.'
+                },
+                "reference": {
+                    "en": 'Ref. D3M0 - <punka-character>Sly</punka-character>',
+                    "es": 'Ref. D3M0 - <punka-character>Sly</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": "I fed this ugly nasty creature I found past midnight, and it has became an asshole. Is there anyone looking for a really fluffy pet?",
+                    "es": "He dado de comer después de medianoche al bicho ese raro que encontré y se ha convertido en un capullo. ¿Nadie quiere una mascota?"
+                },
+                "reference": {
+                    "en": 'Ref. GR84 - <punka-character>Billy Peltzer</punka-character>',
+                    "es": 'Ref. GR84 - <punka-character>Billy Peltzer</punka-character>'
+                }
+            }
+        ], 
+        "monthly news": {
+            "en": '<p>You are all becoming aware of it, and it’s true: the <punka-faction data-id="hijos-de-la-sangre-negra">Black Blood Children</punka-faction> are becoming an increasing pain in the ass. Last week three former members of tha cult arrived in <punka-place data-id="puentechatarra">Scrapbridge</punka-place>, asking for shelter.</p><p>They say that things around their base are gettin’ really crazy. Their former leader, the <punka-troop data-id="guardian-de-la-llama">Flamekeeper</punka-troop> <punka-character data-id="rogelio">Felix</punka-character>, was quite a peaceful guy only interested in spreading the word of <punka-character>Tex’co</punka-character> with an army of door-to-door preachers. But he died in the attack the cult suffered more or less at the same time as our own attack on the northern beam. At that moment their most aggresive faction, led by <punka-character data-id="cunnillingus-ignis">Cunilingus Igni</punka-character>, who even then was held in solitary confinement due to his bad temper, took leadership of the whole gang. They have been losing it big time since then, and those left who did not agree with their methods started to vanish one after the other.</p><p>The new recruits are heavily brainwashed to the point of being capable of running into an enemy during a fight, and set themselves on fire to burn them, not giving a shit if they die in the process or not. It seems that the whole burning thing turns them on, and for the new blood arriving to the cult if you don’t have a good part of your flesh well charred and crispy, you are a nobody.</p><p>Be warned, here at <punka-place data-id="puentechatarra">Scrapbridge</punka-place> we are cool fellas and have let them stay over, but hear my words: the first time these nuts come to my door knocking at lunch time, I will smoke their asses shotgun-style.</p>',
+            "es": '<p>Todos os estáis dando cuenta de ello... los <punka-faction data-id="hijos-de-la-sangre-negra">Hijos de la Sangre</punka-faction> cada vez están dando más p’ol culo. La semana pasado llegaron a <punka-place>Puentechatarra</punka-place>, pidiendo refugio, tres antiguos integrantes de ese culto.</p><p>Dicen que la cosa allí se está volviendo mu loca. Su anterior líder, el <punka-troop data-id="guardian-de-la-llama" data-name="Guardián de la Llama">Sumo Guardián de la Llama</punka-troop> <punka-character>Rogelio</punka-character>, era un tipo bastante pacífico, que sólo estaba interesado en llevar por ahí la palabra de <punka-character>Tex’co</punka-character>, en plan pesados de esos que van de puerta en puerta. Pero resulta que la palmó en el ataque que sufrieron allá por la época en que a nosotros nos volaron la viga. En ese momento, la facción más agresiva, liderada por <punka-character data-id="cunnillingus-ignis">>Cunilingus Igni</punka-character>, que incluso de aquella estaba encerrado por busca broncas, se hizo con el poder de la banda. Desde entonces han ido desbarrando cada vez más, y los que quedaron que no estaban de acuerdo con ellos, iban desapareciendo.</p><p>A la gente que reclutan así de nuevos les lavan un montón la cabeza, y no es raro verlos en algún enfrentamiento lanzarse contra un enemigo quemándose a lo bonzo, sin importarles un pijo el que mueran ellos mismos. Y es que parece que lo de quemarse les pone un montón, y si no tienes tus buenas partes de la piel así churruscadita, pues no eres nadie.<p></p><p>Pues eso, que aquí en <punka-place>Puentechatarra</punka-place> somos muy guays y les hemos dejado quedarse. Pero yo ya aviso, como me vengan a llamar a la puerta en plan pesado los aviento a postazos.</p>'
+        }, 
+        "tip": {
+            "en": 'These guys from <punka-media data-id="la-gaceta-de-puentechatarra">the Gazette</punka-media> have told me that some other ramdom dudes have been bitchin’ about what I say here. Well, here is my tip of the day for those weepy assholes: ‘Twat did you say? I cunt’ hear you while goin’ down on your mommies!',
+            "es": 'Los tíos de <punka-media data-id="la-gaceta-de-puentechatarra">la Gaceta</punka-media> me han dicho que ha habido peña que se queja de lo que pongo. Pues aquí va mi consejo de este mes para esos capullos: si tenéis problemas conmigo hablad con mi abogado. ¿Que qué abogado? ¡¡¡Pues el que tengo aquí colgado!!!'
+        }
+    },
+    "type": "gazette",
+    "year": "III"
+});
