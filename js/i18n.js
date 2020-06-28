@@ -98,7 +98,7 @@ var i18n = {
             "index": "Índice",
             "media": "Medios de comunicación",
             "nature": "Bestiario",
-            "object": "Objectos",
+            "object": "Objetos",
             "place": "Lugares",
             "proverb": "Proverbios",
             "reference": "Referencias",

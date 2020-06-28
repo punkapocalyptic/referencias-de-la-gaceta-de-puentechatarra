@@ -20,7 +20,7 @@ source.push({
             {
                 "message": {
                     "en": 'Come eat my balls. In <punka-place data-id="tenderete-de-tortillas-de-huevos-de-galligarto-de-morice"><punka-character data-id="morice">Morice’s</punka-character> Meatball Hero stall</punka-place> we have the best <punka-foodstuff>buffamel meatball sandwiches</punka-foodstuff></punka-place> of all <punka-place data-id="el-paramo">the Wasteland</punka-place> and beyond.',
-                    "es": 'Comerme todos los huevos. En el <punka-place>Tenderete de <punka-foodstuff>tortillas de huevos de <punka-nature>galligarto</punka-nature></punka-foodstuff> de <punka-character>Morice</punka-character></punka-place> tenemos las tortillas más chupis de todo <punka-place>el Páramo</punka-place>.'
+                    "es": 'Comerme todos los huevos. En el <punka-place>Tenderete de <punka-foodstuff data-id="tortilla-de-huevos-de-galligarto" data-name="Tortilla de huevos de galligarto">tortillas de huevos de <punka-nature>galligarto</punka-nature></punka-foodstuff> de <punka-character>Morice</punka-character></punka-place> tenemos las tortillas más chupis de todo <punka-place>el Páramo</punka-place>.'
                 },
                 "reference": {
                     "en": 'Ref. 3GG - <punka-character>Morice</punka-character>',
