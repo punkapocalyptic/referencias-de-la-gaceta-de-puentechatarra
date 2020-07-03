@@ -128,7 +128,7 @@ const ui = {
 
                 case ui.panel.template.listItemItem.id.id2CamelCase():
                     if (container.dataset.type === "gazette") {
-                        let content,
+                        let content = '',
                             gazette = ui.data.gazette.find(gazette => gazette.id === parseInt(container.dataset.id, 10));
 
                         container.header.appendChild(document.createTextNode(`${i18n[ui.lang].gazettes} ${fullname(gazette)}`));
@@ -195,7 +195,11 @@ const ui = {
                     }
                     // url
                     if (element.url) {
-                        name = `<a href="${i18n[element.type === "gazette" ? "es" : ui.lang].url.web}${element.url[ui.lang]}" target="${element.id} ${ui.lang}">${name}</a>`;
+                        let url = element.url[ui.lang];
+                        if (['//', 'ht'].indexOf(url.substring(0, 2)) === -1) {
+                            url = i18n[element.type === "gazette" ? "es" : ui.lang].url.web + url;
+                        }
+                        name = `<a class="panel__name-link" href="${url}" target="${element.id} ${ui.lang}">${name}</a>`;
                     }
 
                     container.header.insertAdjacentHTML("beforeend", name);
@@ -214,6 +218,10 @@ const ui = {
                         });
                     }
                     else {
+                        if (element.description) {
+                            container.content.insertAdjacentHTML('beforeend', element.description[ui.lang]);
+                        }
+
                         ui.data.gazette.sort((a, b) => a.id - b.id).forEach(gazette => {
                             feed(container.dataset.id, container.dataset.type, gazette, content);
                         });
