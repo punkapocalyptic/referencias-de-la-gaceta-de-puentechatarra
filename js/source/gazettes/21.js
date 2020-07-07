@@ -19,8 +19,8 @@ source.push({
         "classyfrieds": [
             {
                 "message": {
-                    "en": 'Looking for a <punka-object data-id="libro-tocho-con-una-cruz-en-la-portada">thick book with a cross on the cover</punka-object>. I can’t see the moment when some <punka-faction data-id="chatarreros">Junker</punka-faction> finds one around for me. I pay good bullets.',
-                    "es": 'Se busca <punka-object>libro tocho con una cruz en la portada</punka-object>. No veo el momento en que algún <punka-faction data-id="chatarreros">chatarrero</punka-faction> me encuentre alguno por ahí. Pago bien.'
+                    "en": 'Looking for a <punka-object data-id="libro-tocho-con-una-cruz-en-la-portada"><punka-reference data-id="el-libro-de-eli" data-name="The Book of Eli">thick book with a cross on the cover</punka-reference></punka-object>. I can’t see the moment when some <punka-faction data-id="chatarreros">Junker</punka-faction> finds one around for me. I pay good bullets.',
+                    "es": 'Se busca <punka-object><punka-reference data-id="el-libro-de-eli" data-name="El libro de Eli">libro tocho con una cruz en la portada</punka-reference></punka-object>. No veo el momento en que algún <punka-faction data-id="chatarreros">chatarrero</punka-faction> me encuentre alguno por ahí. Pago bien.'
                 },
                 "reference": {
                     "en": 'Ref. 4ME - <punka-character>Eli</punka-character>',

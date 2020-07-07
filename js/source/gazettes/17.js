@@ -39,8 +39,8 @@ source.push({
             },
             {
                 "message": {
-                    "en": 'I have found a <punka-object data-id="mapa-del-tesoro">treasure map</punka-object> belonging to this <punka-character data-id="willy-el-tuerto">“One-eyed” Willy</punka-character> fella. The place is fokkin’ far away, so I will give a share to anyone who helps me get there.',
-                    "es": 'He encontrado un <punka-object>mapa del tesoro</punka-object> de un tal <punka-character>Willy “El Tuerto”</punka-character>. Al que me ayude a ir a donde pone, que queda a tomar po’l culo, le doy parte de lo que encontremos.'
+                    "en": 'I have found a <punka-object data-id="mapa-del-tesoro">treasure map</punka-object> belonging to this <punka-character data-id="willy-el-tuerto"><punka-reference data-id="los-goonies" data-name="The Goonies">“One-eyed” Willy</punka-reference></punka-character> fella. The place is fokkin’ far away, so I will give a share to anyone who helps me get there.',
+                    "es": 'He encontrado un <punka-object>mapa del tesoro</punka-object> de un tal <punka-character><punka-reference data-id="los-goonies" data-name="Los Goonies">Willy “El Tuerto”</punka-reference></punka-character>. Al que me ayude a ir a donde pone, que queda a tomar po’l culo, le doy parte de lo que encontremos.'
                 },
                 "reference": {
                     "en": 'Ref. 1985 - <punka-character>Mikey</punka-character>',

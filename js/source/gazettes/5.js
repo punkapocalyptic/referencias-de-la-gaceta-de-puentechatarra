@@ -51,14 +51,14 @@ source.push({
                     "es": 'Vendo <punka-object>Interceptor MFP</punka-object>. No tiene gasofa, pero farda un montón.'
                 },
                 "reference": {
-                    "en": 'Ref. 1979 - <punka-character>M. Rockatansky</punka-character>',
-                    "es": 'Ref. 1979 - <punka-character>M. Rockatansky</punka-character>'
+                    "en": 'Ref. 1979 - <punka-character><punka-reference data-id="mad-max" data-name="Mad Max">M. Rockatansky</punka-reference></punka-character>',
+                    "es": 'Ref. 1979 - <punka-character><punka-reference data-id="mad-max" data-name="Mad Max">M. Rockatansky</punka-reference></punka-character>'
                 }
             },
             {
                 "message": {
-                    "en": 'Guys, I have lost my <punka-object data-id="enquiridion">Enchiridion</punka-object>, I will pay anyone who helps me find it. Much better if we can have a mathematical adventure.',
-                    "es": 'Trons, he perdido mi <punka-object data-id="enquiridion" data-name="Enquiridión">Enchiridion</punka-object>, pago a quien me ayude a encontrarlo. Mejor si es corriendo una aventura matemática.'
+                    "en": 'Guys, I have lost my <punka-object data-id="enquiridion"><punka-reference data-id="hora-de-aventuras" data-name="Adventure Time">Enchiridion</punka-reference></punka-object>, I will pay anyone who helps me find it. Much better if we can have a mathematical adventure.',
+                    "es": 'Trons, he perdido mi <punka-object data-id="enquiridion" data-name="Enquiridión"><punka-reference data-id="hora-de-aventuras" data-name="Hora de aventuras">Enchiridion</punka-reference></punka-object>, pago a quien me ayude a encontrarlo. Mejor si es corriendo una aventura matemática.'
                 },
                 "reference": {
                     "en": 'Ref. 101 - <punka-character>Fynn</punka-character>',
