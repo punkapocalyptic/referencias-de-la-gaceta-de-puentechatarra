@@ -48,7 +48,7 @@ source.push({
             },
             {
                 "message": {
-                    "en": '<p>The <punka-band>non-profit organization</punka-band> “<punka-band data-id="medicos-del-paramo"><punka-reference data-id="medicos-sin-fronteras" data-name="Médecins Sans Frontières"><punka-place data-id="el-paramo">Wasteland</punka-place> Medics</punka-reference></punka-band>” is opening a new <punka-event data-id="campana-de-donacion-de-sangre-y-organos">campaign of blood and organ donors</punka-event>. Please spread the word.</p>',
+                    "en": '<p>The <punka-band data-id="organizacion-sinonimo-de-lucro">non-profit organization</punka-band> “<punka-band data-id="medicos-del-paramo"><punka-reference data-id="medicos-sin-fronteras" data-name="Médecins Sans Frontières"><punka-place data-id="el-paramo">Wasteland</punka-place> Medics</punka-reference></punka-band>” is opening a new <punka-event data-id="campana-de-donacion-de-sangre-y-organos">campaign of blood and organ donors</punka-event>. Please spread the word.</p>',
                     "es": '<p>La <punka-band>Organización sinónimo de lucro</punka-band> "<punka-band><punka-reference data-id="medicos-sin-fronteras" data-name="Médicos sin Fronteras">Médicos del <punka-place data-id="el-paramo">Páramo</punka-place></punka-reference></punka-band>" abre su nueva <punka-event>campaña de donación de sangre y órganos</punka-event>. Se agradece difusión.</p>'
                 },
                 "reference": {
