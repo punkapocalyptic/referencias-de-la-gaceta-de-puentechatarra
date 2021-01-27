@@ -66,7 +66,7 @@ source.push({
         },
         "shows and entertaiment": [
             {
-                "en": 'Due to <punka-place data-id="circuito-de-pijus-magnificus">Boner’s Circuit</punka-place> reopening and the beginning of the <punka-event data-id="combates-de-pesos-extranos">WWF</punka-event> (<punka-event data-id="combates-de-pesos-extranos" data-name="WWF">WeirdWeight Fights</punka-event>) in <punka-place data-id="pozo-de-lucha"><punka-place data-id="sinagua">Nowater</punka-place>’s Pits</punka-place> all gamblers and beating lovers have enough entertainment for long while.',
+                "en": 'Due to <punka-place data-id="circuito-de-pijus-magnificus"><punka-place data-id="latiesa">Boner</punka-place>’s Circuit</punka-place> reopening and the beginning of the <punka-event data-id="combates-de-pesos-extranos">WWF</punka-event> (<punka-event data-id="combates-de-pesos-extranos" data-name="WWF">WeirdWeight Fights</punka-event>) in <punka-place data-id="pozo-de-lucha"><punka-place data-id="sinagua">Nowater</punka-place>’s Pits</punka-place> all gamblers and beating lovers have enough entertainment for long while.',
                 "es": 'La reapertura del <punka-place id="circuito-de-pijus-magnificus">circuito de <punka-place>Latiesa</punka-place></punka-place> y el comienzo de los <punka-event>combates de pesos extraños</punka-event> en las luchas de <punka-place data-id="pozo-de-lucha">Pozo de <punka-place>Sinagua</punka-place></punka-place> hace que todos los apostadores y amantes de los buenos fostiales tengan entretenimiento para una buena temporada.'
             },
             {
