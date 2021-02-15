@@ -406,6 +406,13 @@ body:lang(es) span:lang(en)::before {
         padding: 0.25rem;
     }
 
+    .item__content-title {
+        column-span: all;
+        display: block;
+        padding: 0.5rem 0;
+        text-align: center;
+    }
+
 
 
 
