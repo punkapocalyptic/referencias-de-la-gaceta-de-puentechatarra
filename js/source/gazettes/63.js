@@ -1,0 +1,66 @@
+source.push({
+    "id": 63,
+    "sections": {
+        "breaking news": [
+            {
+                "en": '<p>As incredible as it might sound, the news of <punka-event data-id="muerte-de-sajarratas"><punka-character data-id="el-viejo-sajarratas">Ratcutter</punka-character>’s passing</punka-event> have put all <punka-place data-id="puentechatarra">Scrapbdrige</punka-place> in shock. But more than that, not only we have seen true  shows  of  grief,  joy  or  whatever  the  fuck  according  to  your  feelings  for  that  human  wretch.  Some citizens went out in the streets with banners reading <q>Ratcutter lives!</q>, <q>They are lying to you</q>, <q>Wake  up,  people</q>  and  shit  like  that.  They  believe  this  whole  <punka-event data-id="muerte-de-sajarratas"><punka-character data-id="el-viejo-sajarratas">Ratcutter’s</punka-character> dead</punka-event> is  just  a  set-up  of  some kind and the guy is alive and kicking, hiding somewhere.</p>',
+                "es": '<p>Por increíble que pueda parecer, la noticia de la <punka-event>muerte de <punka-character data-id="el-viejo-sajarratas">Sajarratas</punka-character></punka-event> ha conmocionado a todo <punka-place>Puentechatarra</punka-place>. Pero lo más alucinante es que no solo  ha  habido  muestras  de  tristeza,  alegría  o  lo  que cuadre según te cayese ese deshecho humano.  Algunos  ciudadanos  han  salido  a  la  calle  con  pancartas de <q>Sajarratas vive</q>, <q>Es todo una mentira</q>, <q>Emosido  engañado</q>  y  cosas  por  el  estilo.  Dicen  que  todo  ha  sido  algún  tipo  de  montaje  y  que está vivo y oculto en algún lugar.</p>'
+            },
+            {
+                "en": '<p>Are you still a bit shocked? Well, we have just began. Apart from that group of crackpots claiming <punka-character data-id="el-viejo-sajarratas">Old Ratcutter</punka-character> is alive, let’s call them conspiranoics, a <punka-band data-id="culto-a-sajarratas" data-name=" Ratcutter cult">cult devoted to the figure of <punka-character data-id="el-viejo-sajarratas">the old Tunnel Wacko</punka-character></punka-band> has sprung out of nowhere. They are still putting things together and there are tensions even among their own ranks. Some of them say <punka-character data-id="el-viejo-sajarratas">Ratcutter</punka-character> will come back from the dead to punish us for our sins, while  others  claim  he  will  come  back  to  make  us  sin big time. Others say he won’t come back, but his  soul  is  now  alive in all <punka-place data-id="puentechatarra">Scrapbdrige</punka-place>.  Thing  is  don’t  panic  if  you  see  people  fuckin’  around  with  <punka-character data-id="el-viejo-sajarratas">Ratcutter</punka-character> imaginery.</p>',
+                "es": '<p>¿Aún  estáis  un  poco  pasmados?  Pues  la  cosa  no  se queda ahí. Y es que además de esa panda de chalados  ¿conspranoicos?  ha  surgido de la nada un <punka-band data-id="culto-a-sajarratas" data-name="Culto a Sajarratas">culto a la figura de <punka-character data-id="el-viejo-sajarratas">Sajarratas</punka-character></punka-band>. Andan todavía montando la cosa y entre ellos no parecen ponerse  muy  de  acuerdo.  Unos  dicen  que <punka-character data-id="el-viejo-sajarratas">Sajarratas</punka-character> volverá  de  la  muerte  para  castigar  nuestros  pecados.  Otros  que  volverá  para  hacernos  pecar  a  lo bestia. Los hay que dicen que no volverá, pero que  su  espíritu  es  ahora toda <punka-place>Puentechatarra</punka-place>.  El  caso es que no os extrañéis si veis por ahí gentes con imágenes de <punka-character data-id="el-viejo-sajarratas">Sajarratas</punka-character> haciendo el mongolo.</p>'
+            },
+            {
+                "en": '<p>And the shitball grew bigger. This whole cult thing had always been more or less under control in our settlement; we didn’t kick them out right away and in exchange they knew they couldn’t mess with us beyond some extent. But these new assholes from the  <punka-band data-id="culto-a-sajarratas"><punka-character data-id="el-viejo-sajarratas">Ratcutter</punka-character> cult</punka-band> have  given  the  other  cults’  assholes wings to go out in the streets to yell their nonsenses about gods, spirits, goats, or whatever.So here comes the <punka-band data-id="senda-del-viento-del-alba">Path of the Morning Wind</punka-band>, saying the message from the gods can be listened to in the loud morning fart you let go when pissing for the first time after waking up. Don’t forget about the <punka-band data-id="mundo-feliz">Happy World</punka-band> bunch, who spend their days smiling and being nice to everyone just because, and they are just creepy as fuck. Oh, and the <punka-band data-id="adoradores-del-dios-cambiante">worshipers of the Shifting God</punka-band>, who have the costume to make  human  sacrifices  but  at  least  they  tell  you right away and are not some filthy sneaky rats.</p>',
+                "es": '<p>Y la bola de mierda se ha ido haciendo más gorda. Y  es  que  el  tema  cultos  siempre  ha  estado  bastante  bajo  control  en  nuestro  asentamiento.  No  los echábamos abiertamente, pero les dejábamos claro que no nos dieran mucho la brasa. Pero con todo el tema del <punka-band><punka-band>culto a <punka-character data-id="el-viejo-sajarratas">Sajarratas</punka-character></punka-band></punka-band> otros chalados que hacían sus gilipolleces de adoración en secreto se han lanzado a la calle a proclamar las bondades de sus dioses, espíritus o lo que sea.</p><p>Así que tenemos por ahí a la <punka-band>Senda del Viento del Alba</punka-band>, que  dice  que  el  mensaje  de  los  dioses  se  puede interpretar en el pedo sonoro que te sueltas por la mañana cuando vas a mear. También los del <punka-band>Mundo Feliz</punka-band>, que se pasan el día sonriendo y amebles porque así el mundo será mejor, y en contra de lo que pudiera parecer dan un mal rollo que te cagas. Ah, y los <punka-band>adoradores del Dios Cambiante</punka-band>,  que tienen la costumbre de hacer sacrificios humanos, pero que al menos van de frente y no son unos putos falsos.</p>'
+            }
+        ],
+        "classyfrieds": [
+            {
+                "message": {
+                    "en": '<p>We  write  nonsense  on  demand.  We  experts  in  lovin’  notes  and  adverting...  advingt...  adventi...  adds for <punka-media data-id="la-gaceta-de-puentechatarra">the Gazette</punka-media>.</p>',
+                    "es": '<p>Se escriben tontás por encargo. Semos espertos en notas de amol y reseñas pa <punka-media data-id="la-gaceta-de-puentechatarra">la Gazeta</punka-media>.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-band data-id="neumococo13-e-ignatius-asesores-sl">Neumococo13 and Ignatius SL</punka-band>',
+                    "es": 'REF: <punka-band>Neumococo13 e Ignatius Asesores Sl.</punka-band>'
+                }
+            },
+            {
+                "message": {
+                    "en": '<p>Iddle richman wants seeds peeler. Demonstrable experience.</p>',
+                    "es": '<p>Adinerado ocioso busca pelador de pipas. Experiencia demostrable.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character data-id="vagancias">Laziness</punka-character>',
+                    "es": 'REF: <punka-character>Vagancias</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": '<p>I offer meself as bait for ambushes. Good looking and artistic abilities.</p>',
+                    "es": '<p>Me ofrezco como cebo pa emboscadas. Buena presencia y dotes artísticas.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character>Hanna</punka-character>',
+                    "es": 'REF: <punka-character>Hanna</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": '<p>Looking for a manual breeder to cross <punka-nature data-id="bufamello">buffamels</punka-nature> with <punka-nature data-id="terraburon">landsharks</punka-nature>. <punka-nature data-id="terrabufaron" data-name="Landshamel">Landshamels</punka-nature>? What can go wrong?</p>',
+                    "es": '<p>Se busca mamporrero para cruzar <punka-nature data-id="bufamello">bufamellos</punka-nature> con <punka-nature data-id="terraburon">terraburones</punka-nature>. ¿<punka-nature data-id="terrabufaron" data-name="Terrabufarón">Terrabufarones</punka-nature>?</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character data-id="munones">Stumps</punka-character>',
+                    "es": 'REF: <punka-character>Muñones</punka-character>'
+                }
+            }
+        ],
+        "monthly news": {
+            "en": '<p><punka-character>Ricky Durango</punka-character>.</p><p>Possibly that’s the most common name you have been hearin’ this last month. Well, at least the name of someone  who’s  still  alive,  not  the  name  of  the  fuckin’ <punka-character data-id="el-viejo-sajarratas">Ratcutter</punka-character> dude  we  can’t  get  rid  of  even  after  being  cold  dead.  Shit,  don’t  get  me  wrong,  but  sometimes  I even wish he was still alive. Well, to the point. <punka-character>Ricky Durango</punka-character>, the most famousest private eye. The guy who  found  the <punka-character data-id="hija-de-urgo-piesgrandes">daughter of <punka-character data-id="urgo-piesgrandes">Urgo Bifoot</punka-character></punka-character>  after  she  ran  away and caused his employer’s death, as the daughter chopped  his  daddy’s  cock  and  made  him  eat  it  while  bleeding out (further investigations unearthed that the daughter fled her home with her girlfriend after his dad tried to rape her a couple of times). The guy who found out in just one day who the <punka-character data-id="coseparpados-de-amarillo">Eyelid Stitcher</punka-character> was after a month terrorizing <punka-place data-id="amarillo">Yellow</punka-character> in which not even <punka-band data-id="los-jueces">the Judges</punka-band> of <punka-band data-id="el-consejo">the Council</punka-band> could  learn  shit  about  his  true  identity.  The  guy  who,  if  you  break  the  law  and  someone  can pay the fees to hire his black ass, knows you have made the biggest mistake in your life and he’s gonna bust yo’ balls.</p><p>Thing is that, as we had already told you last month, he  decided  to  investigate <punka-event data-id="muerte-de-sajarratas"><punka-character data-id="el-viejo-sajarratas">Ratcutter</punka-character>’s death</punka-event> for  some  reason without having any declared employer. He has been walking the streets since then, asking questions, smashing faces and even traveling to other settlements looking for no-one-knows-what.</p><p>And he is already the talk of the town. First, because it never took him this long to solve a case. And second, because  the  questions  he’s  asking  are  weird  as  fuck  and not a living soul in this city can figure out what the hell is going on.</p>',
+            "es": '<p><punka-character>Ricky Durango</punka-character>.</p><p>Posiblemente ese sea el nombre que más hayas escuchado en el último mes. Bueno, el nombre de alguien  vivo.  Vamos,  que  no  sea  el del puto <punka-character data-id="el-viejo-sajarratas">Sajarratas</punka-character>, que  ni  muerto  nos  deja  tranquilos,  que  quien me lo iba a decir casi prefiero que ande vivo. Pero al grano. <punka-character>Ricky Durango</punka-character>. El detective más famoso. El tipo que encontró a la <punka-character>hija de <punka-character>Urgo Piesgrandes</punka-character></punka-character> después de que este lo contratara y que como pago le arranco la polla y se la hizo comer mientras se desangraba, pues resulta que su hija no  estaba  secuestrada  sino  que  se  había  pirado  con su novia porque su padre la intentó violar. El que averiguó en un solo día quién era el <punka-character>Cosepárpados de <punka-place>Amarillo</punka-place></punka-character> después de que ni <punka-band>los Jueces</punka-band> ni <punka-band>el Consejo</punka-band> hubieran conseguido resultados en más de un mes. El que si cometes un delito y alguien puede pagar los honorarios de su negro culo, sabes que la has cagado y te va a trincar.</p><p>El caso es que como os contamos el mes pasado, por alguna razón ha decidido investigar la <punka-event>muerte de <punka-character data-id="el-viejo-sajarratas">Sajarratas</punka-character></punka-event> sin  que  se  sepa  que  nadie  le  haya  contratado. Y ha estado todo este tiempo pateando las calles, haciendo preguntas, dando palizas y visitando  otros  asentamientos  en  busca  de  nadie  sabe qué.</p><p>Y es la comidilla de todos lados. Primero, porque en la vida había tardado tanto en resolver un caso. Y segundo, porque las preguntas que está haciendo son tope extrañas y nadie acaba de compren-der de manera clara lo que está pasando.</p>'
+        }      
+    },
+    "type": "gazette"
+});
