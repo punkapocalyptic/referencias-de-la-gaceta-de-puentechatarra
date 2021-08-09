@@ -1,0 +1,56 @@
+source.push({
+    "id": 66,
+    "sections": {
+        "breaking news": [
+            {
+                "en": '<p>It seems the beasts of <punka-place data-id="el-paramo">the Wasteland</punka-place> have gone mad  after  the  massive  huntings  from  these  past  months.  I  don’t  know  really  why,  because  they  were  the  ones  who  had  free  meals  everyday  and  should  thank  us  for  that. More <punka-nature data-id="raptura">highjackers</punka-nature>, <punka-nature data-id="desmembrador">shredders</punka-nature>, <punka-nature data-id="punkicornio">punkicorns</punka-nature> and  such  wild  critters  are  being sold than any old fuck can remember around here.  Ok,  our  elders  can’t  even  remember  what  they had for breakfast after a lifetime of beatings, alcohol  abuse  and  sexual  transmision  diseases,  but you perfectly knew what I was talking about, assholes, you always tryin’ to catch me out.</p>',
+                "es": '<p>Parece que las bestias del <punka-place data-id="el-paramo">Páramo</punka-place> se han rebotado bastante después de las cacerías de los meses pasados. Y eso que realmente fueron ellas las que se pusieron  las  botas,  que  deberían  estar  más  contentas que otra cosa. Se están viendo más <punka-nature data-id="raptura">rapturas</punka-nature>, <punka-nature data-id="desmembrador">desmembradores</punka-nature>, <punka-nature data-id="punkicornio">punkicornios</punka-nature> y demás fauna de lo que los más viejos recuerdan. Vale, que en general los más viejos de tantos golpes, alcohol y enfermedades venéreas no recuerdan ni lo que han  desayunado,  pero  ya  me  entendéis  hostias,  que siempre vais ahí a buscarme.</p>'
+            },
+            {
+                "en": '<p>For  all  those  of  you  interested  in  goin’  fuckin’  around shootin’ people, but also concerned about other  general  things  such  as  livin’  to  see  a  new  day, here in the <punka-place data-id="plaza-del-pacto">Covenant Square</punka-place> in <punka-place data-id="puentechatarra">Scrapbridge</punka-place> you  will  be  able  to  take <punka-event data-id="clases-de-tiro-con-arco-y-ballesta">bow and crossbow lessons</punka-event> for the whole month. Just like that, for free? Yep, but there is a catch, as they are also looking for the best aims to try and recruit them for their own gang, <punka-band data-id="los-saetadores">the Crossbolters</punka-band>. I wouldn’t trust them much, either, as in the first days they were around they put up their show shooting at things people had to put on their heads; after three eyes gouged out,  two  ears  bolted  to  the  wall  and  one  corpse,  now they just use a target like normal people.</p>',
+                "es": '<p>Para todos aquellos interesados en andar por ahí de mamporreo disparando a la gente, pero que las balas  para  un  arma  de  fuego  las  necesitáis  para  otras cosas como vivir en general, en la <punka-place>Plaza del Pacto</punka-place> están dando <punka-event>clases de tiro con arco y ballesta</punka-event> durante todo el mes. ¿Y lo hacen así de gratis? Pues sí, pero la cosa tiene truqui, y es que andan viendo  a  la  gente  que  tenga  más  puntería  para  tratar de reclutarla para su banda, <punka-band>los Saetadores</punka-band>. Aún así tampoco me fiaría mucho, que los prime-ros días andaban haciendo demostraciones disparando a cosas que la gente se ponía en la cabeza, pero después de tres futuros tuertos, dos pérdidas de orejas y un muerto ahora usan una diana como toda la vida.</p>'
+            },
+            {
+                "en": '<p>Explorers of the unknown wanted! No aims for survival needed. The goal is to map several locations <punka-place data-id="sur-de-la-zona-de-puentechatarra">south of <punka-place data-id="puentechatarra">Scrapbridge</punka-place></punka-place>. After opening a safe route to <punka-place>Merkadome</punka-place>, there are many people interested in finding out if there are other settlements, ruins or places of interest down there they can profit from anyhow. But, of course, some brave idiot must go there  first  in  person  to  check  the  surroundings, and that won’t be them. So, volunteers will have to scout the area and see if there is any danger, new  feral  beasts,  deadly  traps,  man-eaters,  big-ass  toxic  zones,  killer  gangs,  hazardous  terrain,  ear-bashing zealots... You know the drill, fuckers.</p>',
+                "es": '<p>Se buscan exploradores de lo desconocido, sin muchas pretensiones de supervivencia, para investigar las localizaciones que pueda haber al <punka-place>sur de la zona de <punka-place>Puentechatarra</punka-place></punka-place>. Con la apertura de la ruta hacia <punka-place>Merkadome</punka-place>, no es poca la gente que ha puesto el ojo en averiguar si hay algunos restos, asentamientos y demás lugares de interés por esos  lares  con  los  que  puedan  lucrarse  de  alguna  manera.  Pero  claro,  antes  de  ir  en  persona y arriesgar sus preciosos pellejos, prefieren mandar a algunos pringados a que inspeccionen cómo está la cosa de chunga y se enteren de si hay nuevas bestias peligrosas, trampas mortales, devoradores de hombres, zonas terriblemente tóxicas, bandas homicidas, terreno inestable, cultos que te dan la brasa...</p>'
+            }
+        ],
+        "classyfrieds": [
+            {
+                "message": {
+                    "en": '<p>Cactus milking home service provided.</p>',
+                    "es": '<p>Se ordeñan cactus a domicilio.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character data-id="el-callos">Calluses Creed</punka-character>',
+                    "es": 'REF: <punka-character>El Callos</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": '<p>Trade  handed  over  for  retirment.  Salt  mine, fully equipped with wagons and tools, 3 <punka-nature data-id="bufamello">buffamels</punka-nature> and 52 mostly unused slaves. Price to be agreed.</p>',
+                    "es": '<p>Se  traspasa  negocio  por  jubilación. Mina de sal,  equipada con vagonetas y aparejos, 3 <punka-nature data-id="bufamello">bufamellos</punka-nature> y 52 esclavos con poco uso. Precio a convenir.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character>Abelino</punka-character>',
+                    "es": 'REF: <punka-character>Abelino</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": '<p>Sick of steppin’ on all the shit your kids leave on the floor when you wake up at night? I will kidnap them and  give  them  to  some  slaver  or  cannibal  without  anyone suspecting you. Because you deserve some neat feet.</p>',
+                    "es": '<p>¿Harto de que de noche cuando vas descalzo pises los trastos que dejan tus hijos? Te secuestro a los churumbeles y los regalo a algún esclavista o  caníbal  sin  que  nadie  pueda  sospechar  de  ti.  Porque te mereces unos pies sanos.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character data-id="secuetrato">Kidnappa’</punka-character>',
+                    "es": 'REF: <punka-character>Secuetrató</punka-character>'
+                }
+            }
+        ],
+        "monthly news": {
+            "en": '<p>We are still going slowly to normal after that crazy <punka-nature data-id="ladiborbon">crabfuck</punka-nature> plague  we  suffered  last  year,  but  that’s not  true  everywhere. At <punka-place data-id="la-clinica">the Klinic</punka-place>,  where  things  have  always  gone  from  bad  to  worse  amid  some  bit of chaos, now they are just gettin’ worserer.</p><p>Now  you  have  to  book  in  advance  just  to  show  your ugly face down there. And hey, we don’t even have all that tech shit from the <punka-event data-id="mundo-de-antano">World of Before</punka-event>, so to book in advance you need to go down there in person. But if you want them to receive you, you need to reserve in advance. All this is now creating what our local expert calls... wait, I will search my notes to quote him correctly... <q>a fuckin’ spandex-temporal paradox</q>. Accordin’ to his vast knowledge, if things go like this much longer around <punka-place data-id="la-clinica">the Klinic</punka-place> they can create a... wait, quoting again... <q>a rip right in the middle of reality’s ass that will first suck the entire building, then the ‘hood, then all of <punka-place data-id="puentechatarra">Scrapbridge</punka-place> and then the whole <punka-place data-id="unoverso">Oneverse</punka-place></q>.</p><p>Then  he  went  through  explaining  it  again  very  slowly,  with  drawings  and  mimics,  according  to  him <q>just like if you were watching a fuckin’ <punka-artistic data-id="peli-de-nolan"><punka-character>Nolan</punka-character> film</punka-artistic>, because I know most of you are retarded in the best case scenario</q>.</p><p>We  have  no  goddamn  clue  what  he  was  babblin’  about, but personally I think nothing will happen apart from people gettin’ really pissed off with all this shit until they burn the fuckin’ place down. But hey, what would I know...</p>',
+            "es": '<p>Aunque poco a poco vuelve la normalidad tras la plaga de <punka-nature data-id="ladiborbon">ladiborbones</punka-nature>, no es así en todos los sitios. En <punka-place>la Clínica</punka-place>, donde siempre han ido de puto culo y aquello era un caos, las cosas aún van peor de lo habitual.</p><p>Ya sabemos que ahora hay que pedir cita previa para ir por allí. Y claro, tampoco es que tengamos la tecnología del <punka-event>Mundo de Antaño</punka-event>, así que para pedir cita previa tienes que hacerlo allí en persona. Pero para que te atiendan tienes que tener cita previa. Todo eso está formando lo que el experto local llama... esperad que copio lo que me ha  dictado...  <q>una paradoja despacio-terrenal de  cojones</q>. Dice que si las cosas siguen así por mucho tiempo se irá creando centrado en <punka-place>la Clínica</punka-place>... vuelvo  a  copiar...  <q>una rasgadura en el mismísimo culo de la realidad que acabará por absorber primero ese edificio, luego ese barrio, luego toda <punka-place>Puentechatarra</punka-place> y finalmente el <punka-place>Unoverso</punka-place> al completo</q>.</p><p>Luego lo ha vuelto a explicar todo despacio, y con dibujitos y gestos, según ha dicho... <q>os lo voy a soltar como si fuera esto una puta <punka-artistic>peli de <punka-character>Nolan</punka-character></punka-artistic> porque  sé  que  la  mayoría  sois  medio  retrasados  en el mejor de los casos</q>.</p><p>Ni jodida idea de a qué cojones se refería, pero yo personalmente creo que lo único que va a pasar es que la gente al final se va a encabronar a lo bestia y van a reducir el sitio a putas cenizas. Pero oyes... a saber.</p>'
+        }      
+    },
+    "type": "gazette"
+});
