@@ -1,0 +1,56 @@
+source.push({
+    "id": 70,
+    "sections": {
+        "breaking news": [
+            {
+                "en": '<p><punka-band data-id="el-consejo">The Great Council of <punka-place data-id="puentechatarra">Scrapbridge</punka-place></punka-band> urges all assholes in the settlement to get the fuck outtta here as soon as possible, so please fuck off.</p><p>Unless you are some rich assholes with bullets to spend, in which case you are most welcome here. Or vengative assholes that can come back with a gang of violent friends to take revenge. Or assholes with nice shiny things to trade with. Or really hot assholes, we always want beautiful, hot bimbos walking around. Or <punka-band data-id="el-consejo">Council</punka-band> assholes, because, shit, those are from the <punka-band data-id="el-consejo">Council</punka-band> and won’t get away!</p>',
+                "es": '<p>Desde <punka-band data-id="el-consejo">el Consejo de <punka-place>Puentechatarra</punka-place></punka-band> se insta a que todos los gilipollas abandonen este gran asentamiento cuanto antes mejor.</p><p>A no ser que sean gilipollas con balas para gastar, que entonces se los tolera. O gilipollas rencorosos que luego vengan con muchos amigos a arrasar con todo. O gilipollas que traigan cosillas chulas para comerciar. O gilipollas que estén muy buenorros. O los gilipollas del <punka-band data-id="el-consejo">Consejo</punka-band>, que hostias no, son del <punka-band data-id="el-consejo">Consejo</punka-band>.</p>'
+            },
+            {
+                "en": '<p>We recently received the visit of a couple of shabby individuals who claim to have gone into the depths of the <punka-place data-id="bosque-vivo">Living Forest</punka-place>. We don’t believe a single fucking word of what they say, but our job is to tell you the news of this city and so we do repeating what we were told.</p><p>They say that as weird as the outer zones of the forest can be, the deepest area is plain crazy. Extensive areas filled with impossible plants of bizarre colors where reality seems to expand itself forever (please, don’t ask), living beings that seem taken out of some cheap space soap opera from the <punka-event data-id="mundo-de-antano">World of Before</punka-event>, places where physics don’t work as they should and, last but not least, some creatures they called the <data-band data-id="forestales">Foresters</data-band>, half men and half plants with the ability to control vegetation.</p><p>Yes, I know what you are thinking: those two have gone high as fuck this last weekend and now they are just recalling their "trip".</p>',
+                "es": '<p>Ha llegado al asentamiento un matrimonio de andrajosos que dice haberse internado en las profundidades del <punka-place>Bosque Vivo</punka-place>. Aunque no nos creemos ni un pijo, aquí estamos para narrar la actualidad y os tenemos que poner lo que han contado.</p><p>Dicen que si la zona más exterior del bosque es rara, el interior es un locurón. Zonas ocupadas por plantas imposibles de extraños colores donde la realidad parece expandirse (no me preguntéis), seres que parecen salidos de algunos cuentos del <punka-event>Mundo de Antaño</punka-event>, lugares donde la física no se comporta como debería, y por último a los que llaman los <data-band>Forestales</data-band>, medio hombres y medio plantas capaces de controlar la vegetación.</p><p>Sí, sé lo que estáis pensando, estos dos se han pillado un colocón del copón y nos están contando su "viaje".</p>'
+            },
+            {
+                "en": '<p>It’s now official: the <punka-faction data-id="irradiados">Irradiated</punka-faction> are real and not just a distant myth. A band of gangers minding their own business down the <punka-place data-id="gran-raja">Great Rift</punka-place> area stumbled upon a small raiding party of these wackos and things ended up as usual: beating the shit outta each other. The gangers won the fight and they also managed to capture one of the cultits alive. So far the woman has only confirmed that they are really fucked up on their heads and their main hobby would be starting a holy crusade to eradicate all life from <punka-place data-id="el-paramo">the Wasteland</punka-place>. Shit you, little parrot!</p><p>We have sent a correspondent down there to keep their eyes peeled and luckily we will be able to tell you all in an exclusive article next month.</p>',
+                "es": '<p>Ya es oficial, los <punka-faction>Irradiados</punka-faction> son de verdad y no un cuento para asustar a las viejas pellejas. Una banda de pandilleros que andaba por la zona de la <punka-place>Gran Raja</punka-place> se encontró con un grupo de estos chalados y la cosa acabó como suele ser normal, a fostiales. El caso es que no solo salieron ganadores, sino que consiguieron capturar a uno de estos mandangas. Por ahora solo nos han contado que están fatal de lo suyo y que así como hobby tienen el montar una cruzada para erradicar toda vida del <punka-place data-id="el-paramo">Páramo</punka-place>. ¡Tócate los cojones!</p><p>Hemos enviado a un corresponsal a enterarse de todo y en el próximo número os lo contaremos en exclusiva.</p>'
+            }
+        ],
+        "classyfrieds": [
+            {
+                "message": {
+                    "en": '<p>I sellin’ some fancy sextoys with verry litle uze, ‘cause my man is un insipid fuck with a really tigh’ ass hole.</p>',
+                    "es": '<p>Se venden achiperres sesuales con poco uso porque mi marido es un puto sosainas de la vida con el ojete mu estrecho.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character>Tomasa</punka-character>',
+                    "es": 'REF: <punka-character>Tomasa</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": '<p>Soul seeker offered to get the hell outta there as soon as paranormal shit begins.</p>',
+                    "es": '<p>Buscador de ánimas se ofrece pa salir por patas ante evidencias paranormales.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character data-id="cagueta">Craven</punka-character>',
+                    "es": 'REF: <punka-character>Cagueta</punka-character>'
+                }
+            },
+            {
+                "message": {
+                    "en": '<p>Smelly armpits? <punka-firm data-id="desodorantes-secarral">Drypatch deodorants</punka-firm> offers their main product manufactured with local <punka-nature data-id="bufamello">buffamel</punka-nature> dung treated with our secret formula.</p>',
+                    "es": '<p>¿Olor de sobaca? <punka-firm>Desodorantes Secarral</punka-firm> ofrece su producto estrella a base de bostas de <punka-nature>bufamello</punka-nature> tratadas con nuestra fórmula secreta.</p>'
+                },
+                "reference": {
+                    "en": 'REF: <punka-character data-id="caca-fresh">Poo poo fresh</punka-character>',
+                    "es": 'REF: <punka-character>Caca fresh</punka-character>'
+                }
+            }
+        ],
+        "monthly news": {
+            "en": '<p>We are receiving some alarmingly (wow, that was not easy to write) surprising news from the <punka-place data-id="sobatetas">Titgrab quarter</punka-place>. It seems that the famous whor... hook... prost... nope? Aight, harlot, they say I must write, but fuck me if I know what that means. Well, to the fuckin’ point. So, <punka-character data-id="ramona-dos-canalillos">"Two Cleavages" Ramona</punka-character>, who probably was the only female <punka-faction data-id="mutardos">mutard</punka-faction> really well accepted in <punka-place data-id="puentechatarra">Scrapbridge</punka-place> and surroundings, WAS A FUCKING SCAM! She was doing her job as usual in one of the Titgrab alleys, when suddenly there was a great, loud bang and her client shitted on his pants. <punka-character data-id="ramona-dos-canalillos">Ramona</punka-character>’s middle boob had just exploded! Just like you are reading it, fellas! It seems it just was a really well done implant she got from a strange dude she met a couple of years ago near <punka-place data-id="cascavelas">Candlebreaker</punka-place>. He told her he was a famous doctor expelled from one of the Megalopoli of cool people, just because they were jealous of his geniously art and he started calling them <q>flaccid cocksuckers</q>.</p><p>This is the first case we have ever heard of in our lives of a good (or bad, goddamnit) person that willingly impersonates a lowly <punka-faction data-id="mutardos">mutard</punka-faction>. There have been cases of misundersetandings (wow, I’m really good at writing today) with really ugly or misshapen people, or with those who fart like pigs, or men with some colossal dicks, or whatever. But a person wanting others to think he or she was a <punka-faction data-id="mutardos">mutard</punka-faction> is some new level of sickness. Looking at it from the good side, this discovery has made half <punka-place data-id="puentechatarra">Scrapbridge</punka-place> sleep a little better now knowing they haven’t actually paid for banging a filthy <punka-faction data-id="mutardos">mutard</punka-faction>.</p>',
+            "es": '<p>Desde el <punka-place data-id="sobatetas">Barrio de Sobatetas</punka-place> nos llegan noticias alarmantemente sorprendentes. Resulta que la famosa pu... fula... prosti... ¿tampoco? Meretriz me dicen que escriba, que a mí que me maten si sé qué significa. Bueno, pues eso, al grano. Que <punka-character>Ramona "Dos Canalillos"</punka-character>, la que era posiblemente la única <punka-faction data-id="mutardos">mutarda</punka-faction> bien vista de <punka-place>Puentechatarra</punka-place> y alrededores... ¡ES UN PUTO TIMO!. Estaba ejerciendo su trabajo, cuando de repente hubo un estallido que no veas y su cliente casi se caga del sustaco de impresión. Y es que resulta que la teta central de <punka-character data-id="ramona-dos-canalillos">la Ramona</punka-character> le había explotado. Sí, sí, así como os lo digo. Resulta que era un implante super currado que le había hecho un tío extraño que se encontró hace un par de años en el camino de <punka-place>Cascavelas</punka-place>. Según le dijo era un doctor al que habían expulsado una mega ciudad de la gente guay porque tenían ciertos problemas con su genialidad porque eran todos unos <q>pichaflojas cortomiras</q>.</p><p>El caso es que es el primer caso que hayamos conocido nunca en el que un humano de bien (o de mal, vamos) se hace pasar por <punka-faction data-id="mutardos">mutardo</punka-faction> voluntariamente. Que alguna vez ha pasado que a alguno se le ha confundido sin queriendo con uno por ser feo a rabiar, o tirarse unos pedos que no son medio normales, o tener un rabo desproporcionado, o yo que sé, cosas de ese estilo. Pero querer que piensen a propósito que eres <punka-faction data-id="mutardos">mutardo</punka-faction> ni de coña. Pero bueno, gracias a esta noticia parece que más de media <punka-place>Puentechatarra</punka-place> se acuesta más tranquila sabiendo que en el fondo no se ha cepillado a una <punka-faction data-id="mutardos">mutarda</punka-faction>.</p>'
+        }
+    },
+    "type": "gazette"
+});
