@@ -7,6 +7,6 @@ source.push({
     "type": "reference",
     "url": {
         "en": "https://www.kickstarter.com/projects/432417423/punkapocalyptic-the-rpg?ref=discovery&term=punkapocalyptic",
-        "es": "https://www.verkami.com/projects/28500-punkapocalyptic-el-juego-de-rol"
+        "es": "https://www.kickstarter.com/projects/badrollgames/punkapocalyptic-el-juego-de-rol" //"https://www.verkami.com/projects/28500-punkapocalyptic-el-juego-de-rol"
     }
 });
